@@ -1,0 +1,1601 @@
+Order_ID,Order_Date,Region,Category,Sub_Category,Segment,Sales,Quantity,Discount,Profit,Year
+SG-10909,2021-01-02,East,Technology,Accessories,Home Office,564.05,3,0.13,107.06,2021
+SG-11460,2021-01-05,East,Furniture,Chairs,Consumer,371.13,4,0.06,30.86,2021
+SG-10895,2021-01-06,West,Furniture,Bookcases,Consumer,316.09,6,0.12,0.92,2021
+SG-10068,2021-01-07,Central,Office Supplies,Paper,Home Office,63.29,4,0.28,32.98,2021
+SG-11235,2021-01-10,Central,Office Supplies,Art,Corporate,198.09,2,0.18,46.62,2021
+SG-11226,2021-01-10,Central,Furniture,Tables,Home Office,192.0,6,0.05,2.9,2021
+SG-11446,2021-01-12,West,Office Supplies,Binders,Consumer,81.44,1,0.18,42.21,2021
+SG-10877,2021-01-14,East,Furniture,Tables,Corporate,301.05,2,0.11,20.78,2021
+SG-10526,2021-01-14,West,Technology,Machines,Consumer,629.59,3,0.0,115.96,2021
+SG-10644,2021-01-15,South,Office Supplies,Labels,Consumer,80.52,7,0.14,-21.2,2021
+SG-10012,2021-01-16,Central,Office Supplies,Paper,Consumer,76.21,4,0.16,16.34,2021
+SG-11306,2021-01-17,South,Office Supplies,Storage,Consumer,232.32,1,0.01,63.07,2021
+SG-11276,2021-01-17,East,Office Supplies,Art,Consumer,180.46,4,0.13,49.58,2021
+SG-11437,2021-01-19,West,Furniture,Furnishings,Corporate,194.76,1,0.2,-4.98,2021
+SG-10585,2021-01-19,Central,Technology,Phones,Consumer,183.9,7,0.11,40.85,2021
+SG-10435,2021-01-21,West,Technology,Phones,Consumer,120.42,3,0.09,11.62,2021
+SG-10455,2021-01-22,West,Furniture,Chairs,Consumer,259.17,2,0.34,27.91,2021
+SG-10257,2021-01-24,Central,Office Supplies,Binders,Consumer,98.01,7,0.13,-2.35,2021
+SG-10282,2021-01-24,East,Furniture,Bookcases,Home Office,299.4,7,0.16,36.35,2021
+SG-11186,2021-01-25,East,Technology,Machines,Corporate,414.29,4,0.0,85.3,2021
+SG-11288,2021-01-26,East,Office Supplies,Paper,Home Office,108.37,6,0.03,-9.38,2021
+SG-10478,2021-01-28,Central,Office Supplies,Binders,Home Office,199.69,2,0.09,16.4,2021
+SG-10377,2021-01-29,South,Office Supplies,Binders,Consumer,101.36,1,0.13,4.02,2021
+SG-10290,2021-01-29,Central,Office Supplies,Storage,Home Office,211.96,2,0.13,4.4,2021
+SG-10269,2021-01-29,West,Technology,Copiers,Consumer,283.8,3,0.09,36.33,2021
+SG-10667,2021-01-30,East,Office Supplies,Binders,Consumer,109.85,7,0.26,50.53,2021
+SG-11535,2021-01-31,East,Office Supplies,Art,Consumer,191.16,4,0.13,48.19,2021
+SG-10661,2021-01-31,East,Furniture,Furnishings,Consumer,260.76,3,0.07,39.28,2021
+SG-11263,2021-01-31,East,Furniture,Bookcases,Consumer,178.18,3,0.11,2.89,2021
+SG-11466,2021-01-31,East,Office Supplies,Labels,Consumer,226.36,6,0.08,8.27,2021
+SG-11406,2021-02-01,Central,Office Supplies,Labels,Corporate,61.35,2,0.05,42.75,2021
+SG-10960,2021-02-01,East,Office Supplies,Paper,Corporate,240.18,1,0.03,30.95,2021
+SG-10439,2021-02-02,East,Office Supplies,Art,Home Office,89.42,2,0.13,31.38,2021
+SG-10770,2021-02-03,Central,Technology,Machines,Consumer,196.35,3,0.23,32.79,2021
+SG-10593,2021-02-03,East,Office Supplies,Binders,Home Office,104.8,3,0.12,13.82,2021
+SG-11020,2021-02-05,Central,Furniture,Tables,Home Office,73.55,6,0.16,20.25,2021
+SG-10224,2021-02-05,West,Office Supplies,Art,Home Office,284.0,2,0.17,40.57,2021
+SG-10158,2021-02-05,Central,Furniture,Chairs,Corporate,262.52,6,0.14,-0.04,2021
+SG-10200,2021-02-06,West,Office Supplies,Binders,Corporate,163.4,5,0.26,34.89,2021
+SG-11495,2021-02-08,Central,Technology,Copiers,Consumer,434.93,2,0.18,108.26,2021
+SG-11327,2021-02-08,South,Technology,Copiers,Consumer,203.84,2,0.07,27.83,2021
+SG-10894,2021-02-08,East,Technology,Machines,Consumer,234.23,5,0.16,44.7,2021
+SG-10975,2021-02-09,Central,Office Supplies,Art,Consumer,72.87,5,0.22,4.03,2021
+SG-10996,2021-02-09,South,Technology,Phones,Corporate,317.46,2,0.13,48.63,2021
+SG-11561,2021-02-12,West,Furniture,Tables,Consumer,125.72,7,0.33,-22.13,2021
+SG-10360,2021-02-14,East,Office Supplies,Labels,Consumer,80.8,6,0.22,-0.63,2021
+SG-10223,2021-02-15,West,Furniture,Tables,Home Office,161.08,4,0.14,6.91,2021
+SG-11165,2021-02-17,Central,Office Supplies,Binders,Consumer,54.7,3,0.03,3.4,2021
+SG-11068,2021-02-17,South,Office Supplies,Art,Home Office,85.65,5,0.15,50.22,2021
+SG-11147,2021-02-23,East,Furniture,Chairs,Corporate,226.8,7,0.14,-7.09,2021
+SG-11286,2021-02-23,East,Technology,Copiers,Home Office,203.42,1,0.23,28.36,2021
+SG-11399,2021-02-23,West,Technology,Accessories,Consumer,182.09,7,0.24,14.59,2021
+SG-10862,2021-02-24,Central,Furniture,Chairs,Home Office,115.81,3,0.11,-6.74,2021
+SG-10372,2021-02-25,East,Office Supplies,Storage,Consumer,158.34,7,0.1,5.05,2021
+SG-10702,2021-02-25,East,Office Supplies,Art,Consumer,123.82,4,0.11,33.87,2021
+SG-11472,2021-02-28,East,Office Supplies,Paper,Consumer,116.69,1,0.12,-2.91,2021
+SG-10511,2021-02-28,West,Office Supplies,Binders,Consumer,230.53,7,0.15,25.97,2021
+SG-10587,2021-03-01,Central,Technology,Phones,Consumer,183.13,1,0.16,46.91,2021
+SG-11096,2021-03-02,South,Office Supplies,Labels,Consumer,140.45,5,0.26,-20.37,2021
+SG-10072,2021-03-02,Central,Office Supplies,Art,Consumer,47.77,5,0.0,16.75,2021
+SG-10355,2021-03-02,East,Furniture,Bookcases,Home Office,200.93,3,0.11,37.27,2021
+SG-11424,2021-03-02,South,Technology,Phones,Consumer,372.0,5,0.17,90.02,2021
+SG-10231,2021-03-03,East,Office Supplies,Paper,Corporate,236.29,4,0.15,59.17,2021
+SG-10548,2021-03-04,East,Furniture,Bookcases,Corporate,309.88,7,0.09,0.77,2021
+SG-10567,2021-03-05,South,Technology,Accessories,Corporate,220.93,5,0.02,58.14,2021
+SG-10769,2021-03-06,West,Office Supplies,Art,Corporate,211.92,6,0.11,21.53,2021
+SG-10512,2021-03-07,Central,Furniture,Furnishings,Consumer,174.48,3,0.21,-0.07,2021
+SG-10629,2021-03-08,Central,Office Supplies,Labels,Consumer,183.23,7,0.2,-3.79,2021
+SG-10194,2021-03-09,East,Office Supplies,Art,Corporate,213.68,3,0.14,14.69,2021
+SG-10263,2021-03-09,West,Technology,Copiers,Corporate,403.0,4,0.13,50.05,2021
+SG-10840,2021-03-11,East,Furniture,Bookcases,Consumer,199.64,6,0.09,32.95,2021
+SG-10796,2021-03-11,West,Furniture,Tables,Home Office,174.57,2,0.1,25.04,2021
+SG-11452,2021-03-12,South,Furniture,Furnishings,Consumer,169.81,5,0.16,-10.98,2021
+SG-10233,2021-03-12,Central,Furniture,Bookcases,Consumer,172.1,3,0.2,9.85,2021
+SG-10708,2021-03-13,East,Technology,Phones,Consumer,182.58,5,0.11,51.98,2021
+SG-11547,2021-03-13,Central,Office Supplies,Labels,Home Office,145.65,5,0.14,41.91,2021
+SG-10532,2021-03-14,West,Technology,Phones,Consumer,97.61,2,0.25,-7.47,2021
+SG-10327,2021-03-15,West,Office Supplies,Art,Consumer,81.57,7,0.16,-2.68,2021
+SG-10481,2021-03-16,South,Office Supplies,Labels,Consumer,81.72,4,0.17,-22.78,2021
+SG-11129,2021-03-16,East,Office Supplies,Labels,Home Office,146.9,2,0.08,36.04,2021
+SG-10345,2021-03-19,West,Office Supplies,Art,Corporate,109.53,4,0.07,62.39,2021
+SG-11462,2021-03-21,Central,Technology,Phones,Consumer,290.21,6,0.21,68.86,2021
+SG-10691,2021-03-21,West,Technology,Phones,Consumer,426.72,6,0.15,83.84,2021
+SG-10387,2021-03-21,East,Furniture,Furnishings,Consumer,464.72,4,0.15,49.78,2021
+SG-10483,2021-03-21,Central,Furniture,Chairs,Consumer,320.35,3,0.06,26.6,2021
+SG-10122,2021-03-22,Central,Furniture,Chairs,Consumer,63.5,7,0.03,33.88,2021
+SG-10334,2021-03-24,Central,Furniture,Bookcases,Consumer,99.41,4,0.15,-5.18,2021
+SG-11023,2021-03-24,South,Furniture,Tables,Consumer,188.54,7,0.25,12.55,2021
+SG-10426,2021-03-25,East,Office Supplies,Storage,Corporate,355.1,6,0.11,69.98,2021
+SG-11057,2021-03-25,Central,Office Supplies,Storage,Consumer,190.76,4,0.16,28.92,2021
+SG-11412,2021-03-27,West,Technology,Accessories,Consumer,212.98,2,0.08,35.34,2021
+SG-11132,2021-03-28,West,Furniture,Chairs,Home Office,92.69,7,0.06,-28.1,2021
+SG-11038,2021-03-30,East,Technology,Phones,Corporate,214.82,1,0.04,32.73,2021
+SG-10925,2021-03-31,East,Office Supplies,Binders,Consumer,180.5,5,0.15,33.43,2021
+SG-11514,2021-03-31,East,Furniture,Bookcases,Corporate,148.42,6,0.15,-11.93,2021
+SG-10370,2021-03-31,West,Furniture,Bookcases,Consumer,190.52,1,0.01,-6.47,2021
+SG-10362,2021-03-31,East,Technology,Accessories,Consumer,225.34,5,0.24,22.79,2021
+SG-11582,2021-03-31,West,Furniture,Bookcases,Consumer,220.21,1,0.1,17.62,2021
+SG-10411,2021-03-31,South,Office Supplies,Art,Consumer,138.07,1,0.12,49.99,2021
+SG-10514,2021-03-31,East,Furniture,Chairs,Corporate,279.76,6,0.04,53.51,2021
+SG-10947,2021-03-31,East,Furniture,Furnishings,Consumer,121.52,1,0.03,-15.99,2021
+SG-10436,2021-04-01,East,Office Supplies,Binders,Corporate,109.3,1,0.06,5.47,2021
+SG-10665,2021-04-01,East,Office Supplies,Storage,Consumer,135.46,7,0.04,29.55,2021
+SG-10656,2021-04-06,Central,Furniture,Tables,Consumer,310.69,7,0.08,16.13,2021
+SG-10448,2021-04-09,South,Technology,Machines,Consumer,589.3,7,0.03,117.16,2021
+SG-10260,2021-04-11,East,Office Supplies,Art,Consumer,145.86,2,0.03,32.01,2021
+SG-10309,2021-04-12,East,Office Supplies,Art,Consumer,124.51,4,0.16,26.05,2021
+SG-10953,2021-04-12,South,Technology,Machines,Corporate,254.53,1,0.11,43.08,2021
+SG-10773,2021-04-13,Central,Furniture,Tables,Consumer,147.91,7,0.18,-18.41,2021
+SG-11079,2021-04-13,Central,Technology,Phones,Consumer,231.41,2,0.08,48.76,2021
+SG-10504,2021-04-15,Central,Furniture,Tables,Corporate,147.51,5,0.04,2.73,2021
+SG-11112,2021-04-22,East,Technology,Phones,Home Office,164.32,7,0.21,55.28,2021
+SG-10706,2021-04-22,East,Office Supplies,Labels,Consumer,260.94,7,0.17,53.41,2021
+SG-10905,2021-04-24,West,Office Supplies,Storage,Consumer,151.4,2,0.1,-14.04,2021
+SG-11070,2021-04-25,Central,Office Supplies,Art,Corporate,86.29,6,0.04,19.78,2021
+SG-10942,2021-04-25,West,Office Supplies,Binders,Consumer,110.27,4,0.31,-29.1,2021
+SG-10754,2021-04-28,Central,Office Supplies,Paper,Corporate,50.06,5,0.13,-35.68,2021
+SG-11362,2021-04-28,South,Office Supplies,Art,Consumer,125.24,5,0.06,18.37,2021
+SG-10997,2021-04-29,Central,Furniture,Tables,Home Office,123.63,6,0.13,-7.86,2021
+SG-11146,2021-04-30,East,Technology,Copiers,Consumer,1100.72,6,0.12,195.12,2021
+SG-10980,2021-04-30,East,Furniture,Bookcases,Consumer,590.39,3,0.26,9.71,2021
+SG-11577,2021-05-01,Central,Technology,Accessories,Corporate,399.9,1,0.11,39.37,2021
+SG-11497,2021-05-03,Central,Office Supplies,Art,Corporate,97.59,7,0.15,-13.12,2021
+SG-10586,2021-05-05,West,Technology,Accessories,Corporate,257.66,3,0.02,16.97,2021
+SG-10663,2021-05-06,East,Furniture,Furnishings,Consumer,116.42,2,0.08,5.4,2021
+SG-11477,2021-05-06,East,Furniture,Tables,Consumer,180.98,5,0.17,-9.11,2021
+SG-11291,2021-05-07,West,Furniture,Chairs,Home Office,179.58,4,0.09,57.4,2021
+SG-10982,2021-05-08,Central,Office Supplies,Storage,Home Office,98.4,5,0.04,30.82,2021
+SG-10112,2021-05-09,South,Furniture,Bookcases,Consumer,271.2,3,0.15,38.84,2021
+SG-10943,2021-05-10,West,Technology,Machines,Consumer,160.49,4,0.1,42.81,2021
+SG-10050,2021-05-10,Central,Furniture,Chairs,Corporate,132.53,2,0.07,35.62,2021
+SG-10776,2021-05-10,West,Office Supplies,Art,Consumer,214.37,2,0.26,38.98,2021
+SG-11102,2021-05-10,West,Office Supplies,Art,Consumer,126.25,7,0.19,-2.3,2021
+SG-11269,2021-05-13,East,Furniture,Furnishings,Consumer,222.15,2,0.27,3.22,2021
+SG-10430,2021-05-14,West,Technology,Phones,Consumer,413.93,6,0.13,54.54,2021
+SG-10396,2021-05-15,West,Furniture,Tables,Corporate,294.08,6,0.05,35.48,2021
+SG-11277,2021-05-15,Central,Technology,Machines,Corporate,351.26,6,0.18,39.53,2021
+SG-10005,2021-05-15,South,Technology,Copiers,Home Office,277.64,5,0.06,104.45,2021
+SG-11587,2021-05-16,South,Office Supplies,Art,Consumer,63.45,6,0.04,26.04,2021
+SG-10852,2021-05-17,West,Office Supplies,Storage,Corporate,252.95,5,0.09,51.06,2021
+SG-10321,2021-05-17,West,Technology,Copiers,Corporate,170.75,7,0.02,14.79,2021
+SG-11014,2021-05-17,West,Office Supplies,Labels,Consumer,82.01,1,0.2,27.16,2021
+SG-10045,2021-05-18,Central,Office Supplies,Labels,Consumer,213.51,1,0.17,40.49,2021
+SG-10875,2021-05-20,West,Office Supplies,Labels,Consumer,110.56,4,0.2,16.81,2021
+SG-11240,2021-05-22,Central,Office Supplies,Storage,Consumer,90.74,7,0.18,38.2,2021
+SG-11310,2021-05-24,West,Office Supplies,Storage,Corporate,342.32,4,0.22,38.88,2021
+SG-10978,2021-05-26,West,Office Supplies,Labels,Corporate,161.4,3,0.2,30.61,2021
+SG-10519,2021-05-26,South,Office Supplies,Labels,Consumer,175.03,2,0.29,51.65,2021
+SG-11210,2021-05-27,East,Office Supplies,Binders,Consumer,62.42,7,0.16,8.64,2021
+SG-10084,2021-05-27,South,Office Supplies,Storage,Home Office,121.17,1,0.12,22.0,2021
+SG-11440,2021-05-29,South,Furniture,Tables,Consumer,95.03,1,0.04,2.59,2021
+SG-11416,2021-05-29,West,Technology,Machines,Corporate,566.95,6,0.19,88.76,2021
+SG-11030,2021-05-29,West,Office Supplies,Labels,Home Office,143.17,2,0.06,12.3,2021
+SG-10505,2021-05-31,East,Technology,Phones,Home Office,429.43,1,0.06,39.32,2021
+SG-10337,2021-06-01,West,Office Supplies,Labels,Consumer,380.56,5,0.11,71.56,2021
+SG-10180,2021-06-01,Central,Office Supplies,Labels,Corporate,56.4,7,0.17,22.65,2021
+SG-10449,2021-06-01,West,Office Supplies,Storage,Consumer,83.63,4,0.06,-24.72,2021
+SG-11073,2021-06-03,West,Office Supplies,Art,Corporate,228.63,3,0.1,38.85,2021
+SG-10000,2021-06-04,South,Furniture,Chairs,Corporate,140.1,3,0.07,32.85,2021
+SG-10319,2021-06-05,West,Technology,Accessories,Consumer,146.95,1,0.12,14.89,2021
+SG-10712,2021-06-06,Central,Technology,Copiers,Consumer,260.25,7,0.12,50.13,2021
+SG-10212,2021-06-06,East,Office Supplies,Labels,Consumer,239.58,2,0.29,53.49,2021
+SG-10427,2021-06-07,East,Technology,Copiers,Consumer,248.08,5,0.02,47.06,2021
+SG-10015,2021-06-10,East,Technology,Phones,Corporate,183.63,7,0.24,6.75,2021
+SG-11118,2021-06-11,Central,Office Supplies,Paper,Consumer,133.04,1,0.11,23.23,2021
+SG-11248,2021-06-12,West,Office Supplies,Paper,Consumer,189.11,5,0.18,17.86,2021
+SG-10839,2021-06-12,East,Technology,Copiers,Consumer,319.6,3,0.13,91.37,2021
+SG-10052,2021-06-13,East,Office Supplies,Labels,Corporate,77.04,6,0.11,29.13,2021
+SG-10838,2021-06-13,East,Office Supplies,Labels,Consumer,171.13,1,0.04,14.12,2021
+SG-11457,2021-06-14,South,Office Supplies,Paper,Home Office,195.91,5,0.06,35.79,2021
+SG-10714,2021-06-14,South,Furniture,Bookcases,Consumer,367.48,6,0.14,36.22,2021
+SG-10962,2021-06-14,South,Technology,Phones,Corporate,301.05,3,0.22,21.21,2021
+SG-10760,2021-06-14,West,Office Supplies,Binders,Home Office,101.78,3,0.2,12.67,2021
+SG-10073,2021-06-15,Central,Furniture,Furnishings,Consumer,148.06,2,0.13,39.93,2021
+SG-10615,2021-06-16,East,Technology,Copiers,Corporate,375.88,7,0.21,88.04,2021
+SG-10470,2021-06-18,Central,Office Supplies,Binders,Consumer,126.63,2,0.27,20.78,2021
+SG-11279,2021-06-19,South,Office Supplies,Storage,Home Office,144.74,2,0.04,24.82,2021
+SG-10363,2021-06-19,Central,Office Supplies,Binders,Home Office,221.68,1,0.05,19.67,2021
+SG-11433,2021-06-19,South,Office Supplies,Paper,Corporate,126.74,5,0.22,36.64,2021
+SG-10508,2021-06-19,South,Furniture,Tables,Consumer,382.52,3,0.09,7.4,2021
+SG-10506,2021-06-20,Central,Technology,Copiers,Consumer,239.11,4,0.16,12.11,2021
+SG-10613,2021-06-20,East,Technology,Accessories,Home Office,147.4,4,0.24,12.44,2021
+SG-10680,2021-06-20,West,Technology,Accessories,Consumer,355.71,2,0.07,34.11,2021
+SG-11260,2021-06-23,Central,Furniture,Tables,Consumer,283.85,6,0.0,67.05,2021
+SG-10641,2021-06-23,Central,Office Supplies,Binders,Corporate,115.73,2,0.1,29.86,2021
+SG-10113,2021-06-24,West,Office Supplies,Binders,Consumer,114.16,3,0.1,11.02,2021
+SG-11385,2021-06-24,West,Furniture,Bookcases,Consumer,312.81,7,0.06,12.67,2021
+SG-10690,2021-06-24,Central,Office Supplies,Labels,Consumer,82.39,2,0.13,44.13,2021
+SG-10174,2021-06-24,South,Office Supplies,Labels,Consumer,81.86,4,0.21,-16.91,2021
+SG-10114,2021-06-25,East,Furniture,Bookcases,Corporate,178.64,3,0.0,9.72,2021
+SG-10453,2021-06-25,South,Technology,Machines,Consumer,259.21,4,0.15,1.7,2021
+SG-10777,2021-06-26,West,Office Supplies,Binders,Consumer,149.8,4,0.18,18.68,2021
+SG-10806,2021-06-26,Central,Furniture,Furnishings,Corporate,350.62,3,0.23,-8.9,2021
+SG-10051,2021-06-27,East,Office Supplies,Art,Consumer,358.36,5,0.19,68.09,2021
+SG-10301,2021-06-27,South,Technology,Phones,Consumer,103.76,3,0.09,-8.25,2021
+SG-10672,2021-06-28,Central,Furniture,Tables,Corporate,155.82,2,0.08,5.63,2021
+SG-11427,2021-07-02,Central,Technology,Machines,Consumer,105.29,4,0.18,14.36,2021
+SG-10652,2021-07-04,South,Office Supplies,Labels,Home Office,58.49,7,0.37,19.95,2021
+SG-10724,2021-07-06,East,Technology,Phones,Corporate,651.6,5,0.24,99.43,2021
+SG-10547,2021-07-07,East,Technology,Machines,Consumer,413.14,2,0.1,46.63,2021
+SG-10945,2021-07-08,East,Furniture,Furnishings,Consumer,148.97,1,0.05,12.92,2021
+SG-11158,2021-07-09,Central,Furniture,Bookcases,Consumer,226.38,4,0.25,35.19,2021
+SG-10415,2021-07-12,West,Furniture,Bookcases,Consumer,199.34,6,0.08,20.34,2021
+SG-10810,2021-07-14,Central,Technology,Copiers,Consumer,161.14,7,0.12,-18.98,2021
+SG-10919,2021-07-16,West,Office Supplies,Paper,Corporate,220.32,3,0.13,48.13,2021
+SG-10389,2021-07-16,South,Technology,Accessories,Home Office,175.01,4,0.17,35.19,2021
+SG-11314,2021-07-16,South,Technology,Copiers,Consumer,111.94,3,0.16,-10.75,2021
+SG-10559,2021-07-18,Central,Technology,Phones,Corporate,325.88,5,0.11,70.58,2021
+SG-10048,2021-07-19,West,Furniture,Furnishings,Consumer,90.76,6,0.1,19.46,2021
+SG-10948,2021-07-21,South,Office Supplies,Paper,Home Office,106.09,5,0.08,10.73,2021
+SG-10701,2021-07-25,South,Office Supplies,Binders,Consumer,176.77,4,0.2,38.56,2021
+SG-10138,2021-07-25,East,Technology,Copiers,Consumer,344.71,3,0.23,42.63,2021
+SG-11293,2021-07-28,Central,Furniture,Chairs,Consumer,115.06,7,0.17,13.88,2021
+SG-11183,2021-07-28,Central,Office Supplies,Storage,Corporate,195.89,3,0.2,-4.41,2021
+SG-10500,2021-07-29,South,Office Supplies,Storage,Home Office,184.03,6,0.25,13.47,2021
+SG-10835,2021-07-31,Central,Office Supplies,Labels,Corporate,110.63,3,0.1,1.07,2021
+SG-10272,2021-08-02,South,Furniture,Bookcases,Home Office,189.78,4,0.24,9.92,2021
+SG-11569,2021-08-03,South,Furniture,Bookcases,Home Office,186.73,2,0.01,11.65,2021
+SG-10331,2021-08-04,West,Office Supplies,Storage,Consumer,199.76,3,0.2,22.81,2021
+SG-10471,2021-08-04,West,Office Supplies,Storage,Corporate,244.85,3,0.0,15.84,2021
+SG-10256,2021-08-05,East,Technology,Phones,Home Office,245.34,2,0.08,16.74,2021
+SG-11594,2021-08-05,South,Office Supplies,Binders,Consumer,176.59,5,0.21,20.92,2021
+SG-10475,2021-08-07,East,Office Supplies,Paper,Corporate,141.71,5,0.18,50.61,2021
+SG-10075,2021-08-10,South,Office Supplies,Art,Consumer,146.73,1,0.19,2.11,2021
+SG-10883,2021-08-10,West,Technology,Accessories,Home Office,197.74,5,0.07,52.36,2021
+SG-10181,2021-08-11,Central,Furniture,Chairs,Corporate,108.12,4,0.03,25.06,2021
+SG-10421,2021-08-12,East,Office Supplies,Binders,Corporate,193.68,2,0.13,16.88,2021
+SG-10016,2021-08-16,Central,Office Supplies,Storage,Corporate,185.47,2,0.17,36.54,2021
+SG-10467,2021-08-16,West,Furniture,Bookcases,Corporate,113.59,1,0.06,9.99,2021
+SG-10041,2021-08-16,West,Technology,Phones,Consumer,240.24,7,0.14,14.01,2021
+SG-10351,2021-08-17,South,Office Supplies,Labels,Consumer,88.05,4,0.19,7.54,2021
+SG-10711,2021-08-19,West,Furniture,Chairs,Corporate,176.68,5,0.09,-10.95,2021
+SG-11251,2021-08-20,East,Office Supplies,Storage,Consumer,232.77,4,0.0,39.28,2021
+SG-11042,2021-08-25,South,Technology,Phones,Consumer,111.21,6,0.1,20.81,2021
+SG-10308,2021-08-25,West,Technology,Machines,Corporate,80.37,2,0.21,2.02,2021
+SG-10274,2021-08-25,Central,Technology,Accessories,Consumer,236.76,1,0.07,38.18,2021
+SG-10908,2021-08-25,West,Technology,Phones,Consumer,544.49,6,0.11,92.82,2021
+SG-10091,2021-08-26,West,Office Supplies,Art,Consumer,68.97,2,0.1,-13.29,2021
+SG-11258,2021-08-26,East,Furniture,Chairs,Consumer,262.43,4,0.06,43.87,2021
+SG-10865,2021-08-31,West,Office Supplies,Labels,Consumer,274.15,1,0.15,48.13,2021
+SG-10855,2021-09-01,Central,Office Supplies,Art,Home Office,102.04,7,0.14,-5.02,2021
+SG-10216,2021-09-02,Central,Office Supplies,Storage,Home Office,186.87,2,0.07,54.37,2021
+SG-10934,2021-09-03,West,Technology,Machines,Consumer,160.62,3,0.14,14.88,2021
+SG-11391,2021-09-04,East,Office Supplies,Art,Home Office,232.46,7,0.11,76.96,2021
+SG-11581,2021-09-05,East,Office Supplies,Labels,Consumer,106.32,5,0.12,2.93,2021
+SG-10755,2021-09-05,East,Technology,Copiers,Home Office,99.99,1,0.36,6.36,2021
+SG-10451,2021-09-06,East,Technology,Phones,Consumer,189.42,2,0.1,18.41,2021
+SG-10699,2021-09-07,West,Furniture,Bookcases,Corporate,371.28,3,0.0,32.36,2021
+SG-10169,2021-09-07,Central,Technology,Copiers,Consumer,168.72,6,0.02,27.2,2021
+SG-10408,2021-09-08,East,Furniture,Furnishings,Consumer,197.12,5,0.09,17.35,2021
+SG-10739,2021-09-10,Central,Technology,Phones,Consumer,328.64,3,0.05,52.89,2021
+SG-10109,2021-09-11,South,Office Supplies,Art,Home Office,76.25,4,0.02,-20.96,2021
+SG-11252,2021-09-11,West,Furniture,Tables,Consumer,145.83,3,0.24,11.03,2021
+SG-11229,2021-09-12,West,Technology,Copiers,Consumer,173.54,6,0.16,63.53,2021
+SG-10374,2021-09-12,Central,Technology,Phones,Corporate,327.17,4,0.14,40.36,2021
+SG-10079,2021-09-14,West,Office Supplies,Paper,Home Office,79.86,3,0.16,8.09,2021
+SG-10020,2021-09-14,Central,Furniture,Furnishings,Consumer,279.3,5,0.17,43.29,2021
+SG-10407,2021-09-16,South,Technology,Phones,Corporate,114.59,7,0.07,6.0,2021
+SG-11064,2021-09-16,West,Furniture,Furnishings,Home Office,90.42,5,0.12,11.07,2021
+SG-10778,2021-09-17,Central,Office Supplies,Paper,Home Office,68.24,3,0.17,18.79,2021
+SG-10536,2021-09-18,West,Office Supplies,Paper,Consumer,89.84,4,0.06,-3.12,2021
+SG-11157,2021-09-20,Central,Office Supplies,Art,Consumer,138.02,6,0.14,22.04,2021
+SG-10460,2021-09-21,Central,Furniture,Chairs,Home Office,230.3,7,0.24,34.51,2021
+SG-10560,2021-09-24,East,Technology,Copiers,Home Office,288.94,2,0.01,63.09,2021
+SG-10824,2021-09-25,West,Technology,Copiers,Consumer,196.19,4,0.09,27.93,2021
+SG-10061,2021-09-25,East,Office Supplies,Labels,Home Office,133.26,5,0.23,38.59,2021
+SG-10808,2021-09-26,Central,Technology,Copiers,Consumer,262.99,3,0.11,60.6,2021
+SG-10604,2021-09-26,East,Office Supplies,Art,Consumer,98.63,1,0.21,-1.16,2021
+SG-11499,2021-09-30,East,Office Supplies,Storage,Consumer,76.77,7,0.09,-6.9,2021
+SG-10888,2021-10-02,East,Technology,Machines,Consumer,84.45,6,0.14,42.03,2021
+SG-10799,2021-10-02,West,Office Supplies,Art,Consumer,94.34,3,0.13,-11.04,2021
+SG-11281,2021-10-03,West,Technology,Machines,Consumer,451.68,2,0.31,65.25,2021
+SG-11512,2021-10-03,Central,Furniture,Furnishings,Consumer,81.01,4,0.16,-34.04,2021
+SG-10677,2021-10-04,West,Office Supplies,Art,Corporate,83.17,4,0.2,-12.57,2021
+SG-10944,2021-10-04,Central,Office Supplies,Labels,Consumer,203.39,4,0.13,76.36,2021
+SG-10579,2021-10-05,South,Office Supplies,Paper,Consumer,166.37,5,0.17,34.48,2021
+SG-11086,2021-10-07,East,Office Supplies,Storage,Consumer,106.45,2,0.15,39.0,2021
+SG-11028,2021-10-07,West,Furniture,Bookcases,Consumer,113.35,5,0.14,-12.99,2021
+SG-11545,2021-10-07,South,Technology,Copiers,Corporate,132.01,6,0.16,1.76,2021
+SG-10305,2021-10-08,Central,Furniture,Bookcases,Consumer,192.41,3,0.19,-18.66,2021
+SG-10010,2021-10-09,West,Furniture,Bookcases,Consumer,88.45,4,0.07,26.5,2021
+SG-10082,2021-10-12,South,Furniture,Bookcases,Consumer,177.61,4,0.17,30.21,2021
+SG-10822,2021-10-12,Central,Office Supplies,Art,Consumer,85.03,2,0.09,-16.66,2021
+SG-10298,2021-10-14,East,Technology,Copiers,Consumer,491.33,5,0.04,74.36,2021
+SG-11221,2021-10-15,Central,Office Supplies,Paper,Home Office,55.09,7,0.2,7.51,2021
+SG-10761,2021-10-16,East,Office Supplies,Binders,Corporate,104.22,5,0.05,-5.38,2021
+SG-10886,2021-10-16,West,Office Supplies,Art,Consumer,201.65,2,0.0,22.62,2021
+SG-11401,2021-10-17,East,Furniture,Bookcases,Home Office,100.13,3,0.01,11.74,2021
+SG-10255,2021-10-17,Central,Office Supplies,Art,Consumer,88.66,7,0.09,-8.05,2021
+SG-10856,2021-10-18,East,Office Supplies,Paper,Home Office,173.48,4,0.16,34.17,2021
+SG-10933,2021-10-19,West,Furniture,Chairs,Home Office,107.97,3,0.15,28.75,2021
+SG-11444,2021-10-20,Central,Technology,Accessories,Consumer,183.43,7,0.0,-3.16,2021
+SG-10847,2021-10-20,West,Technology,Copiers,Consumer,260.51,3,0.0,46.76,2021
+SG-11110,2021-10-28,West,Technology,Phones,Consumer,346.11,3,0.21,22.92,2021
+SG-10204,2021-10-28,Central,Office Supplies,Storage,Consumer,112.76,6,0.16,21.54,2021
+SG-11411,2021-10-29,South,Office Supplies,Labels,Corporate,132.23,3,0.07,19.34,2021
+SG-11029,2021-10-30,East,Technology,Accessories,Consumer,183.98,6,0.0,7.8,2021
+SG-11262,2021-10-31,South,Furniture,Bookcases,Consumer,158.22,7,0.0,13.45,2021
+SG-10910,2021-10-31,East,Office Supplies,Storage,Consumer,170.34,6,0.12,30.06,2021
+SG-10120,2021-10-31,Central,Furniture,Furnishings,Consumer,150.67,2,0.09,0.84,2021
+SG-10341,2021-11-02,South,Office Supplies,Paper,Consumer,82.78,5,0.2,24.12,2021
+SG-10619,2021-11-02,West,Furniture,Chairs,Home Office,142.78,7,0.16,-4.87,2021
+SG-11016,2021-11-03,South,Office Supplies,Paper,Consumer,206.81,4,0.35,32.8,2021
+SG-11334,2021-11-04,Central,Technology,Copiers,Consumer,178.83,2,0.23,12.76,2021
+SG-10614,2021-11-06,Central,Furniture,Chairs,Corporate,446.01,5,0.18,35.8,2021
+SG-10398,2021-11-09,West,Office Supplies,Paper,Corporate,204.35,4,0.14,46.88,2021
+SG-10952,2021-11-09,East,Office Supplies,Binders,Corporate,124.95,4,0.2,-2.09,2021
+SG-10694,2021-11-10,Central,Office Supplies,Paper,Consumer,95.21,5,0.23,7.06,2021
+SG-10675,2021-11-11,South,Furniture,Furnishings,Corporate,265.37,4,0.27,6.5,2021
+SG-10333,2021-11-11,East,Furniture,Chairs,Consumer,357.84,2,0.02,14.23,2021
+SG-10165,2021-11-11,East,Office Supplies,Labels,Consumer,143.92,4,0.21,-21.13,2021
+SG-11272,2021-11-12,Central,Office Supplies,Binders,Home Office,40.98,7,0.1,11.79,2021
+SG-10251,2021-11-13,West,Furniture,Bookcases,Consumer,575.84,3,0.12,46.65,2021
+SG-11386,2021-11-13,South,Furniture,Chairs,Consumer,114.57,4,0.03,19.82,2021
+SG-10783,2021-11-14,West,Furniture,Bookcases,Home Office,280.35,5,0.28,1.65,2021
+SG-11035,2021-11-14,Central,Furniture,Bookcases,Consumer,129.17,1,0.06,-23.98,2021
+SG-10429,2021-11-14,West,Furniture,Furnishings,Home Office,67.78,1,0.19,-24.47,2021
+SG-10718,2021-11-15,Central,Technology,Accessories,Consumer,199.74,3,0.04,47.67,2021
+SG-11560,2021-11-16,West,Technology,Phones,Corporate,436.67,4,0.17,69.96,2021
+SG-11595,2021-11-18,South,Office Supplies,Paper,Consumer,195.56,3,0.06,11.96,2021
+SG-10092,2021-11-19,Central,Technology,Machines,Consumer,65.81,1,0.19,11.67,2021
+SG-10185,2021-11-20,West,Technology,Phones,Consumer,265.93,6,0.1,64.2,2021
+SG-10523,2021-11-22,South,Office Supplies,Storage,Home Office,156.7,6,0.14,6.09,2021
+SG-11024,2021-11-22,West,Technology,Machines,Consumer,204.01,2,0.25,13.64,2021
+SG-11335,2021-11-22,South,Technology,Copiers,Home Office,261.93,7,0.1,49.19,2021
+SG-11509,2021-11-23,Central,Technology,Machines,Consumer,208.22,4,0.2,10.89,2021
+SG-11442,2021-11-25,West,Furniture,Chairs,Consumer,202.54,2,0.12,-6.27,2021
+SG-10206,2021-11-26,Central,Office Supplies,Labels,Home Office,143.45,4,0.18,8.2,2021
+SG-10064,2021-11-27,East,Furniture,Furnishings,Consumer,156.13,1,0.26,16.98,2021
+SG-10939,2021-11-29,Central,Office Supplies,Paper,Consumer,57.62,6,0.26,-23.32,2021
+SG-10036,2021-11-30,East,Furniture,Furnishings,Consumer,181.52,4,0.06,11.44,2021
+SG-10401,2021-12-01,Central,Office Supplies,Art,Corporate,96.05,5,0.06,23.09,2021
+SG-11116,2021-12-02,West,Office Supplies,Binders,Corporate,110.86,3,0.14,36.37,2021
+SG-10891,2021-12-02,Central,Office Supplies,Art,Corporate,188.46,2,0.06,42.06,2021
+SG-10892,2021-12-03,West,Office Supplies,Binders,Home Office,191.43,6,0.17,42.07,2021
+SG-11584,2021-12-04,West,Technology,Phones,Consumer,218.91,2,0.05,40.89,2021
+SG-11420,2021-12-04,Central,Office Supplies,Labels,Consumer,170.43,6,0.09,0.28,2021
+SG-10423,2021-12-05,East,Technology,Phones,Consumer,148.18,1,0.1,11.19,2021
+SG-11454,2021-12-06,East,Technology,Accessories,Consumer,186.72,1,0.09,45.1,2021
+SG-10239,2021-12-06,Central,Furniture,Tables,Home Office,132.3,5,0.09,0.15,2021
+SG-10178,2021-12-06,West,Office Supplies,Art,Consumer,192.1,7,0.07,31.07,2021
+SG-10692,2021-12-06,East,Furniture,Bookcases,Home Office,152.35,5,0.08,-25.04,2021
+SG-11332,2021-12-06,Central,Office Supplies,Storage,Home Office,86.81,5,0.08,-14.91,2021
+SG-10367,2021-12-09,East,Office Supplies,Binders,Consumer,60.65,4,0.13,-10.73,2021
+SG-11228,2021-12-09,Central,Technology,Machines,Consumer,190.18,1,0.22,22.94,2021
+SG-10057,2021-12-10,Central,Furniture,Chairs,Consumer,110.54,7,0.25,26.5,2021
+SG-11176,2021-12-11,Central,Furniture,Chairs,Corporate,207.06,4,0.22,47.0,2021
+SG-11126,2021-12-11,West,Technology,Accessories,Corporate,316.53,5,0.08,37.72,2021
+SG-10001,2021-12-11,Central,Technology,Machines,Consumer,464.21,5,0.12,98.01,2021
+SG-10984,2021-12-12,Central,Furniture,Chairs,Consumer,149.0,3,0.22,28.93,2021
+SG-10689,2021-12-12,West,Furniture,Tables,Consumer,170.06,7,0.11,66.08,2021
+SG-11436,2021-12-13,East,Office Supplies,Paper,Consumer,177.91,2,0.0,31.35,2021
+SG-10940,2021-12-14,Central,Furniture,Bookcases,Consumer,81.98,2,0.17,0.36,2021
+SG-10078,2021-12-14,South,Furniture,Chairs,Home Office,108.72,5,0.07,16.05,2021
+SG-11326,2021-12-15,West,Office Supplies,Paper,Corporate,116.52,3,0.11,25.39,2021
+SG-10380,2021-12-15,West,Technology,Copiers,Corporate,363.63,2,0.26,58.34,2021
+SG-11224,2021-12-15,West,Office Supplies,Binders,Consumer,70.43,3,0.13,36.15,2021
+SG-10117,2021-12-16,West,Technology,Machines,Consumer,235.49,7,0.17,14.59,2021
+SG-10882,2021-12-16,East,Furniture,Chairs,Consumer,246.89,2,0.1,29.3,2021
+SG-11215,2021-12-16,Central,Office Supplies,Storage,Consumer,186.63,7,0.24,50.71,2021
+SG-11225,2021-12-18,Central,Office Supplies,Labels,Consumer,110.1,3,0.08,16.16,2021
+SG-10679,2021-12-18,Central,Office Supplies,Storage,Corporate,115.64,7,0.16,-1.7,2021
+SG-11415,2021-12-20,Central,Office Supplies,Paper,Corporate,150.03,5,0.19,28.73,2021
+SG-10060,2021-12-20,South,Office Supplies,Paper,Consumer,152.58,6,0.04,14.8,2021
+SG-10008,2021-12-21,East,Furniture,Tables,Consumer,285.22,2,0.08,34.6,2021
+SG-11337,2021-12-21,East,Technology,Machines,Consumer,268.4,1,0.2,47.09,2021
+SG-11451,2021-12-21,West,Furniture,Tables,Consumer,240.83,2,0.09,35.86,2021
+SG-11150,2021-12-22,East,Technology,Machines,Consumer,242.81,3,0.13,73.15,2021
+SG-10189,2021-12-24,East,Furniture,Furnishings,Corporate,178.17,7,0.21,40.67,2021
+SG-10798,2021-12-25,East,Office Supplies,Art,Consumer,75.22,7,0.08,6.51,2021
+SG-10556,2021-12-25,Central,Office Supplies,Binders,Consumer,116.6,5,0.11,15.49,2021
+SG-10164,2021-12-25,South,Technology,Copiers,Consumer,306.14,4,0.15,47.0,2021
+SG-10966,2021-12-25,West,Office Supplies,Paper,Consumer,92.38,1,0.29,11.11,2021
+SG-10979,2021-12-26,East,Office Supplies,Storage,Home Office,113.54,5,0.13,22.96,2021
+SG-11149,2021-12-27,West,Office Supplies,Art,Consumer,90.01,6,0.14,-30.15,2021
+SG-11188,2021-12-28,South,Furniture,Tables,Consumer,83.49,1,0.13,30.51,2021
+SG-10610,2021-12-28,South,Office Supplies,Art,Consumer,49.46,1,0.2,3.85,2021
+SG-10034,2021-12-29,West,Technology,Copiers,Consumer,227.47,4,0.01,46.28,2021
+SG-10730,2022-01-01,South,Office Supplies,Storage,Consumer,204.35,3,0.06,23.39,2022
+SG-10021,2022-01-01,South,Office Supplies,Binders,Consumer,72.39,3,0.23,-11.45,2022
+SG-11370,2022-01-02,South,Technology,Machines,Corporate,322.58,2,0.17,45.1,2022
+SG-11376,2022-01-03,Central,Furniture,Chairs,Consumer,199.97,6,0.07,15.44,2022
+SG-11182,2022-01-06,Central,Technology,Accessories,Consumer,279.66,7,0.16,63.42,2022
+SG-11591,2022-01-06,East,Technology,Phones,Consumer,294.15,5,0.18,46.74,2022
+SG-11363,2022-01-07,Central,Technology,Machines,Consumer,389.21,7,0.1,49.12,2022
+SG-11597,2022-01-08,Central,Office Supplies,Binders,Consumer,74.9,2,0.07,36.91,2022
+SG-10491,2022-01-10,South,Furniture,Chairs,Consumer,74.69,5,0.04,-24.02,2022
+SG-10148,2022-01-10,South,Furniture,Chairs,Consumer,179.31,5,0.13,37.76,2022
+SG-11408,2022-01-12,Central,Technology,Phones,Consumer,197.6,7,0.19,55.06,2022
+SG-10821,2022-01-12,West,Technology,Machines,Corporate,499.42,1,0.11,109.17,2022
+SG-11553,2022-01-13,South,Office Supplies,Art,Consumer,174.22,1,0.14,28.47,2022
+SG-10911,2022-01-15,West,Technology,Accessories,Corporate,346.03,4,0.14,73.0,2022
+SG-10095,2022-01-17,East,Furniture,Chairs,Consumer,294.15,4,0.17,26.85,2022
+SG-11308,2022-01-18,West,Office Supplies,Art,Consumer,189.42,5,0.04,61.49,2022
+SG-11524,2022-01-19,East,Furniture,Chairs,Consumer,182.33,2,0.22,-16.56,2022
+SG-10533,2022-01-19,East,Technology,Phones,Consumer,375.9,2,0.1,56.3,2022
+SG-10071,2022-01-19,South,Office Supplies,Paper,Corporate,281.22,5,0.18,48.24,2022
+SG-10365,2022-01-20,West,Technology,Copiers,Home Office,336.26,1,0.07,49.23,2022
+SG-11077,2022-01-21,East,Furniture,Furnishings,Consumer,82.0,4,0.15,0.66,2022
+SG-10480,2022-01-22,Central,Technology,Machines,Home Office,353.2,4,0.23,73.41,2022
+SG-10743,2022-01-23,Central,Technology,Phones,Home Office,138.94,6,0.18,37.03,2022
+SG-11548,2022-01-23,Central,Technology,Phones,Corporate,404.32,4,0.08,109.86,2022
+SG-10928,2022-01-27,East,Office Supplies,Art,Corporate,53.52,3,0.03,14.96,2022
+SG-10202,2022-01-27,Central,Furniture,Chairs,Consumer,211.06,7,0.2,23.92,2022
+SG-10399,2022-01-28,East,Technology,Phones,Consumer,218.18,6,0.0,29.35,2022
+SG-10595,2022-01-28,East,Technology,Copiers,Consumer,218.11,1,0.04,71.65,2022
+SG-11333,2022-01-28,West,Furniture,Furnishings,Corporate,415.09,6,0.12,62.2,2022
+SG-10642,2022-01-29,East,Office Supplies,Labels,Consumer,211.59,5,0.09,40.05,2022
+SG-11521,2022-01-30,South,Furniture,Tables,Consumer,197.36,2,0.09,-0.51,2022
+SG-11329,2022-01-31,Central,Office Supplies,Binders,Consumer,139.05,3,0.17,17.73,2022
+SG-11309,2022-02-02,East,Furniture,Chairs,Home Office,73.94,3,0.15,28.19,2022
+SG-11161,2022-02-03,Central,Office Supplies,Paper,Consumer,137.56,5,0.09,14.74,2022
+SG-11098,2022-02-05,Central,Office Supplies,Paper,Consumer,109.18,5,0.01,12.62,2022
+SG-11435,2022-02-06,Central,Office Supplies,Binders,Home Office,106.95,6,0.12,2.77,2022
+SG-10028,2022-02-07,Central,Office Supplies,Binders,Home Office,170.39,7,0.0,41.37,2022
+SG-10317,2022-02-07,South,Furniture,Bookcases,Consumer,237.38,4,0.15,-8.75,2022
+SG-10681,2022-02-08,Central,Technology,Accessories,Home Office,172.57,1,0.12,41.05,2022
+SG-11198,2022-02-09,Central,Office Supplies,Art,Consumer,77.41,6,0.08,-14.32,2022
+SG-11108,2022-02-10,Central,Technology,Phones,Consumer,309.75,5,0.09,47.26,2022
+SG-10098,2022-02-14,West,Office Supplies,Paper,Home Office,166.06,5,0.17,15.53,2022
+SG-11542,2022-02-14,West,Furniture,Bookcases,Consumer,281.12,3,0.01,45.75,2022
+SG-10022,2022-02-14,Central,Furniture,Chairs,Home Office,326.2,5,0.17,24.18,2022
+SG-11480,2022-02-15,West,Technology,Copiers,Consumer,150.21,5,0.03,14.65,2022
+SG-10621,2022-02-15,South,Office Supplies,Storage,Corporate,244.12,2,0.09,67.73,2022
+SG-10284,2022-02-16,East,Office Supplies,Storage,Consumer,225.43,2,0.17,65.64,2022
+SG-11318,2022-02-16,East,Office Supplies,Binders,Consumer,106.57,4,0.15,45.27,2022
+SG-10152,2022-02-16,East,Office Supplies,Binders,Corporate,174.42,5,0.12,83.07,2022
+SG-10668,2022-02-17,Central,Furniture,Furnishings,Corporate,247.72,5,0.1,35.82,2022
+SG-10472,2022-02-18,East,Office Supplies,Paper,Consumer,197.08,3,0.15,59.0,2022
+SG-10324,2022-02-19,West,Furniture,Bookcases,Consumer,174.63,7,0.16,16.2,2022
+SG-10502,2022-02-19,Central,Technology,Copiers,Consumer,202.85,6,0.17,42.26,2022
+SG-10670,2022-02-20,South,Office Supplies,Binders,Corporate,100.45,7,0.25,72.55,2022
+SG-10981,2022-02-20,South,Office Supplies,Art,Corporate,129.98,5,0.03,15.16,2022
+SG-11393,2022-02-22,West,Office Supplies,Binders,Home Office,132.68,4,0.06,63.9,2022
+SG-10753,2022-02-22,West,Office Supplies,Art,Consumer,177.52,5,0.09,59.87,2022
+SG-11266,2022-02-23,West,Furniture,Chairs,Consumer,165.65,1,0.09,-16.21,2022
+SG-10922,2022-02-25,Central,Furniture,Bookcases,Corporate,264.17,5,0.14,17.09,2022
+SG-10887,2022-02-25,East,Technology,Phones,Corporate,691.9,2,0.27,100.5,2022
+SG-11350,2022-02-26,East,Office Supplies,Labels,Consumer,333.16,6,0.06,46.58,2022
+SG-11387,2022-02-26,South,Furniture,Furnishings,Consumer,188.32,3,0.13,18.01,2022
+SG-11249,2022-02-26,Central,Office Supplies,Art,Corporate,179.35,4,0.0,67.86,2022
+SG-11319,2022-02-27,South,Office Supplies,Paper,Home Office,167.64,2,0.05,22.85,2022
+SG-10134,2022-02-28,Central,Office Supplies,Binders,Corporate,66.41,4,0.04,3.82,2022
+SG-11467,2022-02-28,West,Furniture,Chairs,Home Office,268.11,3,0.0,46.89,2022
+SG-10275,2022-03-01,West,Office Supplies,Binders,Corporate,248.21,7,0.11,26.76,2022
+SG-11138,2022-03-02,Central,Office Supplies,Paper,Home Office,95.14,5,0.06,2.96,2022
+SG-10720,2022-03-03,West,Office Supplies,Art,Consumer,89.61,6,0.22,1.87,2022
+SG-11305,2022-03-05,Central,Furniture,Bookcases,Consumer,298.4,2,0.16,4.84,2022
+SG-10788,2022-03-07,East,Technology,Copiers,Corporate,159.84,2,0.07,36.13,2022
+SG-11213,2022-03-07,East,Office Supplies,Art,Home Office,92.35,2,0.05,2.98,2022
+SG-10713,2022-03-07,South,Furniture,Bookcases,Consumer,194.85,5,0.1,13.38,2022
+SG-10067,2022-03-07,Central,Office Supplies,Labels,Consumer,202.54,1,0.03,23.88,2022
+SG-11301,2022-03-08,East,Furniture,Chairs,Home Office,353.67,4,0.16,31.85,2022
+SG-10159,2022-03-08,West,Furniture,Chairs,Consumer,111.22,4,0.02,60.81,2022
+SG-11599,2022-03-09,East,Furniture,Chairs,Consumer,239.58,7,0.0,34.69,2022
+SG-10868,2022-03-10,Central,Technology,Copiers,Corporate,233.51,4,0.13,52.93,2022
+SG-10046,2022-03-13,West,Furniture,Furnishings,Corporate,182.03,5,0.01,44.12,2022
+SG-10089,2022-03-13,East,Technology,Accessories,Consumer,327.27,1,0.09,49.76,2022
+SG-11049,2022-03-13,Central,Office Supplies,Binders,Corporate,343.09,1,0.25,58.98,2022
+SG-10443,2022-03-13,Central,Office Supplies,Binders,Corporate,37.83,1,0.12,4.66,2022
+SG-10624,2022-03-13,West,Furniture,Bookcases,Corporate,216.01,2,0.18,7.43,2022
+SG-11382,2022-03-14,West,Office Supplies,Storage,Home Office,101.21,3,0.07,18.5,2022
+SG-11554,2022-03-14,East,Office Supplies,Storage,Home Office,306.72,3,0.13,63.53,2022
+SG-11050,2022-03-14,East,Office Supplies,Storage,Consumer,83.89,2,0.21,6.89,2022
+SG-10991,2022-03-15,Central,Office Supplies,Storage,Consumer,238.13,6,0.08,39.58,2022
+SG-10535,2022-03-16,Central,Office Supplies,Binders,Home Office,87.04,3,0.08,24.74,2022
+SG-10433,2022-03-16,East,Furniture,Tables,Consumer,227.18,5,0.02,59.47,2022
+SG-11184,2022-03-17,West,Office Supplies,Labels,Consumer,246.19,1,0.14,39.13,2022
+SG-11283,2022-03-17,Central,Technology,Copiers,Consumer,343.2,4,0.23,32.09,2022
+SG-11190,2022-03-17,West,Furniture,Chairs,Consumer,141.21,1,0.03,-0.19,2022
+SG-10348,2022-03-18,East,Furniture,Chairs,Consumer,188.03,5,0.24,2.53,2022
+SG-11101,2022-03-18,West,Furniture,Furnishings,Corporate,191.3,7,0.0,1.11,2022
+SG-10623,2022-03-22,West,Technology,Machines,Consumer,972.29,5,0.04,165.74,2022
+SG-10964,2022-03-23,East,Office Supplies,Art,Consumer,211.6,5,0.01,59.09,2022
+SG-10336,2022-03-23,South,Furniture,Chairs,Consumer,269.11,2,0.16,11.44,2022
+SG-10369,2022-03-24,Central,Furniture,Chairs,Consumer,176.11,2,0.21,4.59,2022
+SG-10662,2022-03-24,West,Office Supplies,Storage,Home Office,77.19,4,0.11,-21.82,2022
+SG-10410,2022-03-25,South,Office Supplies,Binders,Home Office,179.0,5,0.25,19.89,2022
+SG-10782,2022-03-25,Central,Technology,Copiers,Home Office,138.3,4,0.16,42.95,2022
+SG-11046,2022-03-26,West,Furniture,Furnishings,Consumer,246.34,5,0.0,54.87,2022
+SG-10394,2022-03-26,Central,Office Supplies,Art,Home Office,223.48,5,0.11,41.25,2022
+SG-10700,2022-03-26,Central,Office Supplies,Storage,Consumer,115.06,3,0.0,-14.44,2022
+SG-10897,2022-03-27,South,Furniture,Tables,Consumer,130.48,6,0.17,24.32,2022
+SG-11465,2022-03-28,East,Office Supplies,Art,Corporate,157.34,7,0.09,21.99,2022
+SG-10880,2022-03-28,East,Office Supplies,Paper,Consumer,163.34,3,0.03,36.04,2022
+SG-10273,2022-03-31,West,Technology,Phones,Corporate,876.13,3,0.0,152.75,2022
+SG-11588,2022-03-31,Central,Office Supplies,Storage,Home Office,225.34,3,0.03,43.72,2022
+SG-11464,2022-04-02,Central,Office Supplies,Paper,Consumer,283.08,6,0.1,38.08,2022
+SG-10126,2022-04-02,South,Furniture,Tables,Home Office,84.25,6,0.08,26.79,2022
+SG-11267,2022-04-02,East,Technology,Accessories,Consumer,212.66,7,0.2,42.93,2022
+SG-11034,2022-04-02,West,Office Supplies,Art,Corporate,284.22,5,0.31,23.88,2022
+SG-10731,2022-04-04,South,Furniture,Tables,Consumer,328.79,7,0.08,23.29,2022
+SG-10406,2022-04-04,Central,Technology,Phones,Corporate,414.49,5,0.15,70.44,2022
+SG-11187,2022-04-04,Central,Technology,Copiers,Consumer,175.62,6,0.19,37.67,2022
+SG-10654,2022-04-05,East,Furniture,Bookcases,Corporate,159.17,6,0.09,-31.64,2022
+SG-10957,2022-04-05,West,Office Supplies,Paper,Consumer,82.02,6,0.03,-26.93,2022
+SG-11202,2022-04-05,West,Furniture,Furnishings,Consumer,333.59,7,0.17,21.87,2022
+SG-11432,2022-04-05,Central,Office Supplies,Binders,Corporate,198.38,3,0.02,19.9,2022
+SG-11576,2022-04-06,East,Furniture,Chairs,Consumer,172.59,6,0.03,12.34,2022
+SG-10549,2022-04-06,West,Technology,Copiers,Consumer,273.15,5,0.23,56.74,2022
+SG-10938,2022-04-08,South,Furniture,Bookcases,Home Office,182.4,4,0.06,23.79,2022
+SG-10628,2022-04-08,Central,Office Supplies,Art,Corporate,237.26,5,0.13,31.46,2022
+SG-11583,2022-04-09,West,Furniture,Furnishings,Corporate,435.6,3,0.17,34.96,2022
+SG-11441,2022-04-11,East,Technology,Machines,Consumer,139.77,5,0.1,-9.44,2022
+SG-10059,2022-04-13,West,Technology,Phones,Consumer,346.46,2,0.09,62.28,2022
+SG-10848,2022-04-16,Central,Furniture,Tables,Corporate,345.44,2,0.08,14.24,2022
+SG-11047,2022-04-17,East,Office Supplies,Paper,Home Office,156.82,6,0.08,14.48,2022
+SG-11120,2022-04-17,East,Furniture,Furnishings,Consumer,179.67,1,0.1,13.11,2022
+SG-10866,2022-04-17,Central,Technology,Accessories,Consumer,300.42,5,0.23,55.92,2022
+SG-10705,2022-04-18,West,Office Supplies,Binders,Consumer,184.81,3,0.18,4.57,2022
+SG-10210,2022-04-18,West,Technology,Machines,Corporate,399.83,1,0.1,88.68,2022
+SG-11461,2022-04-22,East,Furniture,Tables,Consumer,363.22,4,0.08,39.41,2022
+SG-11500,2022-04-22,West,Furniture,Tables,Corporate,610.13,7,0.09,48.29,2022
+SG-10013,2022-04-22,Central,Office Supplies,Paper,Consumer,102.86,5,0.17,28.32,2022
+SG-10069,2022-04-24,Central,Technology,Accessories,Consumer,222.49,3,0.19,44.48,2022
+SG-10199,2022-04-25,Central,Office Supplies,Storage,Consumer,189.2,2,0.22,39.5,2022
+SG-11331,2022-04-25,East,Office Supplies,Binders,Consumer,118.82,7,0.0,42.71,2022
+SG-10648,2022-04-25,West,Technology,Machines,Corporate,598.64,2,0.0,121.75,2022
+SG-11351,2022-04-29,South,Furniture,Furnishings,Home Office,163.69,1,0.13,6.26,2022
+SG-10825,2022-04-29,East,Technology,Copiers,Corporate,392.55,4,0.16,109.81,2022
+SG-10135,2022-04-29,East,Technology,Phones,Consumer,315.27,6,0.09,97.68,2022
+SG-10213,2022-04-30,South,Office Supplies,Binders,Consumer,52.42,3,0.13,40.9,2022
+SG-10738,2022-05-01,East,Furniture,Furnishings,Home Office,171.5,7,0.18,14.72,2022
+SG-10123,2022-05-01,South,Furniture,Furnishings,Consumer,173.1,5,0.07,29.72,2022
+SG-11404,2022-05-02,Central,Technology,Machines,Consumer,155.89,3,0.18,15.77,2022
+SG-11402,2022-05-02,Central,Furniture,Bookcases,Consumer,189.14,5,0.15,13.91,2022
+SG-11448,2022-05-06,West,Technology,Machines,Consumer,109.42,3,0.14,34.18,2022
+SG-11289,2022-05-06,East,Technology,Phones,Corporate,465.14,6,0.06,94.49,2022
+SG-10458,2022-05-07,Central,Furniture,Tables,Consumer,238.83,1,0.21,6.0,2022
+SG-10225,2022-05-10,West,Office Supplies,Storage,Home Office,234.3,3,0.11,47.19,2022
+SG-11031,2022-05-11,East,Furniture,Furnishings,Corporate,476.15,5,0.1,25.06,2022
+SG-11191,2022-05-11,Central,Furniture,Chairs,Home Office,152.18,7,0.11,6.21,2022
+SG-10863,2022-05-11,South,Office Supplies,Storage,Consumer,65.99,2,0.22,27.61,2022
+SG-10988,2022-05-12,East,Office Supplies,Labels,Consumer,297.68,5,0.13,6.71,2022
+SG-10807,2022-05-13,East,Furniture,Chairs,Corporate,536.62,4,0.2,29.7,2022
+SG-11284,2022-05-14,South,Office Supplies,Storage,Consumer,154.72,1,0.1,19.31,2022
+SG-10184,2022-05-16,West,Office Supplies,Storage,Home Office,174.91,5,0.17,41.89,2022
+SG-10375,2022-05-18,East,Furniture,Furnishings,Corporate,180.11,2,0.26,33.12,2022
+SG-11195,2022-05-18,West,Office Supplies,Paper,Corporate,105.45,1,0.08,-7.45,2022
+SG-11026,2022-05-19,South,Furniture,Chairs,Consumer,83.48,3,0.07,-16.55,2022
+SG-11091,2022-05-20,West,Furniture,Tables,Home Office,485.53,4,0.09,21.23,2022
+SG-11539,2022-05-21,East,Office Supplies,Art,Corporate,275.63,3,0.09,53.72,2022
+SG-10498,2022-05-25,West,Office Supplies,Binders,Consumer,143.4,1,0.0,6.38,2022
+SG-10528,2022-05-26,West,Office Supplies,Storage,Consumer,80.1,4,0.07,-4.55,2022
+SG-11417,2022-05-26,West,Technology,Phones,Consumer,838.57,6,0.07,177.05,2022
+SG-11369,2022-05-27,Central,Office Supplies,Storage,Consumer,179.14,1,0.13,36.23,2022
+SG-11259,2022-05-27,West,Technology,Machines,Consumer,255.71,1,0.16,55.61,2022
+SG-11017,2022-05-28,East,Office Supplies,Labels,Consumer,140.93,7,0.08,49.42,2022
+SG-11593,2022-05-29,West,Furniture,Tables,Home Office,240.27,2,0.16,19.31,2022
+SG-10772,2022-05-30,East,Furniture,Furnishings,Corporate,247.54,3,0.15,21.33,2022
+SG-10531,2022-05-31,West,Technology,Accessories,Consumer,483.71,3,0.1,83.45,2022
+SG-11290,2022-05-31,Central,Furniture,Chairs,Consumer,301.95,6,0.18,30.15,2022
+SG-11278,2022-06-01,East,Office Supplies,Binders,Consumer,262.01,6,0.21,12.71,2022
+SG-10247,2022-06-01,West,Furniture,Furnishings,Home Office,402.09,7,0.16,12.66,2022
+SG-11373,2022-06-02,South,Office Supplies,Storage,Consumer,188.38,6,0.09,28.89,2022
+SG-10600,2022-06-04,East,Technology,Accessories,Consumer,208.67,3,0.15,17.66,2022
+SG-10292,2022-06-04,East,Furniture,Tables,Consumer,433.06,5,0.06,44.29,2022
+SG-10554,2022-06-04,Central,Technology,Phones,Consumer,258.92,1,0.15,61.63,2022
+SG-11518,2022-06-06,West,Office Supplies,Storage,Consumer,176.85,6,0.0,26.2,2022
+SG-11449,2022-06-07,Central,Furniture,Furnishings,Corporate,170.75,5,0.15,0.59,2022
+SG-11055,2022-06-07,Central,Office Supplies,Art,Consumer,84.74,6,0.2,23.92,2022
+SG-11007,2022-06-08,South,Technology,Phones,Consumer,100.84,5,0.21,17.87,2022
+SG-11496,2022-06-09,West,Furniture,Chairs,Consumer,298.4,1,0.16,54.06,2022
+SG-10537,2022-06-10,Central,Furniture,Chairs,Consumer,278.11,3,0.11,23.91,2022
+SG-10226,2022-06-11,South,Furniture,Tables,Home Office,298.16,7,0.28,4.51,2022
+SG-11100,2022-06-12,East,Office Supplies,Paper,Consumer,114.13,5,0.06,17.22,2022
+SG-10393,2022-06-13,West,Office Supplies,Art,Corporate,119.69,6,0.18,2.89,2022
+SG-11196,2022-06-15,West,Technology,Copiers,Consumer,322.7,4,0.09,33.25,2022
+SG-11562,2022-06-17,East,Office Supplies,Labels,Home Office,98.16,5,0.0,25.72,2022
+SG-11061,2022-06-17,East,Office Supplies,Art,Home Office,192.14,3,0.3,2.76,2022
+SG-10139,2022-06-18,West,Furniture,Furnishings,Consumer,74.75,4,0.11,17.69,2022
+SG-10249,2022-06-18,East,Office Supplies,Storage,Corporate,119.42,4,0.19,18.43,2022
+SG-10850,2022-06-20,Central,Technology,Machines,Consumer,224.44,1,0.15,39.89,2022
+SG-11103,2022-06-20,West,Technology,Copiers,Consumer,236.76,6,0.15,42.39,2022
+SG-11525,2022-06-20,West,Technology,Machines,Consumer,254.86,2,0.02,67.24,2022
+SG-11010,2022-06-22,West,Technology,Phones,Home Office,249.91,7,0.06,43.86,2022
+SG-11241,2022-06-23,West,Furniture,Chairs,Corporate,257.46,2,0.07,-36.14,2022
+SG-10833,2022-06-25,East,Office Supplies,Paper,Consumer,91.37,3,0.07,36.57,2022
+SG-10814,2022-06-26,West,Office Supplies,Art,Consumer,120.96,7,0.1,-4.48,2022
+SG-11280,2022-06-27,Central,Furniture,Tables,Corporate,184.29,6,0.03,62.13,2022
+SG-10570,2022-06-27,East,Furniture,Chairs,Consumer,164.72,4,0.07,50.43,2022
+SG-10227,2022-06-29,South,Furniture,Chairs,Home Office,173.81,5,0.16,22.52,2022
+SG-11033,2022-06-30,East,Office Supplies,Binders,Corporate,124.44,2,0.08,30.42,2022
+SG-10763,2022-07-01,Central,Technology,Phones,Consumer,212.13,5,0.13,55.0,2022
+SG-10845,2022-07-02,Central,Office Supplies,Binders,Consumer,201.52,7,0.11,25.41,2022
+SG-11339,2022-07-02,East,Technology,Copiers,Corporate,348.58,2,0.18,45.09,2022
+SG-10163,2022-07-02,Central,Technology,Accessories,Home Office,296.24,2,0.13,70.84,2022
+SG-10246,2022-07-04,East,Technology,Copiers,Home Office,480.53,6,0.08,100.55,2022
+SG-10860,2022-07-04,West,Furniture,Furnishings,Consumer,166.92,2,0.1,3.43,2022
+SG-10693,2022-07-04,West,Technology,Phones,Consumer,123.46,7,0.14,27.76,2022
+SG-10234,2022-07-05,East,Office Supplies,Paper,Consumer,142.14,3,0.02,33.13,2022
+SG-11323,2022-07-05,Central,Furniture,Bookcases,Consumer,339.04,7,0.13,47.6,2022
+SG-10409,2022-07-05,West,Technology,Copiers,Consumer,73.36,4,0.12,-18.72,2022
+SG-10167,2022-07-07,Central,Office Supplies,Storage,Consumer,63.35,5,0.14,-2.42,2022
+SG-11141,2022-07-07,West,Furniture,Furnishings,Corporate,215.21,6,0.02,-4.12,2022
+SG-10735,2022-07-07,Central,Furniture,Chairs,Consumer,185.33,7,0.07,-1.86,2022
+SG-11155,2022-07-08,Central,Technology,Accessories,Consumer,423.05,4,0.09,96.61,2022
+SG-10419,2022-07-09,West,Office Supplies,Art,Corporate,216.37,6,0.0,31.86,2022
+SG-10156,2022-07-10,East,Furniture,Furnishings,Consumer,206.98,3,0.21,13.07,2022
+SG-10243,2022-07-10,West,Technology,Machines,Corporate,204.76,5,0.12,41.27,2022
+SG-10904,2022-07-12,Central,Office Supplies,Paper,Corporate,162.84,2,0.17,21.75,2022
+SG-10295,2022-07-15,South,Furniture,Chairs,Consumer,122.55,3,0.04,4.14,2022
+SG-10432,2022-07-16,Central,Furniture,Furnishings,Home Office,145.27,5,0.07,42.93,2022
+SG-10388,2022-07-17,East,Office Supplies,Storage,Corporate,99.56,3,0.13,0.83,2022
+SG-11159,2022-07-18,East,Office Supplies,Paper,Consumer,66.25,3,0.16,24.13,2022
+SG-10151,2022-07-20,East,Furniture,Bookcases,Corporate,200.68,7,0.13,20.46,2022
+SG-10965,2022-07-21,East,Furniture,Chairs,Consumer,301.31,6,0.11,4.37,2022
+SG-10179,2022-07-21,West,Furniture,Chairs,Home Office,158.62,3,0.22,-15.81,2022
+SG-10520,2022-07-23,Central,Technology,Copiers,Home Office,114.61,2,0.13,58.03,2022
+SG-10063,2022-07-24,West,Office Supplies,Storage,Corporate,152.09,4,0.13,14.95,2022
+SG-11076,2022-07-25,East,Office Supplies,Paper,Corporate,81.99,4,0.22,46.93,2022
+SG-11209,2022-07-25,East,Office Supplies,Paper,Home Office,133.7,1,0.02,17.87,2022
+SG-10103,2022-07-26,East,Technology,Accessories,Home Office,125.2,5,0.06,-19.59,2022
+SG-10027,2022-07-26,Central,Technology,Accessories,Corporate,195.41,5,0.02,39.46,2022
+SG-10150,2022-07-30,Central,Furniture,Chairs,Consumer,163.72,3,0.19,10.12,2022
+SG-11400,2022-07-31,East,Furniture,Furnishings,Consumer,187.35,4,0.0,26.93,2022
+SG-10900,2022-08-02,South,Furniture,Chairs,Corporate,145.69,4,0.0,61.78,2022
+SG-10195,2022-08-05,East,Office Supplies,Paper,Consumer,225.68,7,0.17,19.07,2022
+SG-10017,2022-08-06,East,Office Supplies,Binders,Consumer,84.68,2,0.12,18.6,2022
+SG-10054,2022-08-07,East,Furniture,Bookcases,Consumer,301.81,4,0.19,42.95,2022
+SG-10971,2022-08-07,Central,Office Supplies,Art,Consumer,485.34,6,0.17,80.06,2022
+SG-10004,2022-08-07,Central,Office Supplies,Art,Home Office,78.12,5,0.14,43.22,2022
+SG-10356,2022-08-08,Central,Furniture,Bookcases,Consumer,94.01,1,0.06,36.49,2022
+SG-10588,2022-08-08,East,Office Supplies,Art,Corporate,266.7,4,0.1,47.44,2022
+SG-11358,2022-08-09,East,Office Supplies,Art,Corporate,215.02,3,0.25,12.59,2022
+SG-11253,2022-08-10,West,Office Supplies,Paper,Consumer,169.35,6,0.16,39.28,2022
+SG-10818,2022-08-11,Central,Technology,Accessories,Consumer,245.38,4,0.06,83.48,2022
+SG-10726,2022-08-13,Central,Furniture,Tables,Consumer,303.87,7,0.07,19.47,2022
+SG-10873,2022-08-14,West,Office Supplies,Storage,Consumer,70.95,7,0.15,14.94,2022
+SG-10445,2022-08-14,Central,Technology,Machines,Consumer,200.51,6,0.16,4.84,2022
+SG-10832,2022-08-14,East,Furniture,Furnishings,Consumer,142.24,7,0.09,-14.82,2022
+SG-10245,2022-08-19,West,Office Supplies,Storage,Corporate,478.44,5,0.08,74.07,2022
+SG-11275,2022-08-20,West,Technology,Copiers,Corporate,157.09,2,0.15,54.95,2022
+SG-10147,2022-08-21,Central,Furniture,Furnishings,Consumer,228.41,5,0.13,36.31,2022
+SG-11003,2022-08-24,West,Furniture,Chairs,Consumer,377.69,4,0.11,12.75,2022
+SG-10441,2022-08-24,East,Office Supplies,Labels,Consumer,67.68,2,0.0,-6.56,2022
+SG-11104,2022-08-25,Central,Technology,Accessories,Home Office,276.59,2,0.12,95.05,2022
+SG-10218,2022-08-25,Central,Office Supplies,Art,Corporate,97.19,7,0.05,0.98,2022
+SG-11189,2022-08-26,Central,Furniture,Tables,Consumer,114.41,4,0.12,13.5,2022
+SG-10094,2022-08-26,Central,Furniture,Bookcases,Consumer,182.58,1,0.07,40.34,2022
+SG-11106,2022-08-29,South,Office Supplies,Labels,Consumer,169.98,4,0.2,34.22,2022
+SG-10105,2022-08-30,Central,Office Supplies,Binders,Consumer,105.77,2,0.1,24.02,2022
+SG-11586,2022-08-30,East,Office Supplies,Art,Consumer,44.11,4,0.07,-22.64,2022
+SG-11095,2022-08-31,Central,Technology,Accessories,Consumer,254.34,7,0.23,8.97,2022
+SG-10751,2022-09-01,East,Technology,Phones,Consumer,322.39,4,0.09,31.47,2022
+SG-11313,2022-09-02,West,Office Supplies,Labels,Consumer,37.73,5,0.28,6.65,2022
+SG-10959,2022-09-03,East,Technology,Phones,Consumer,205.76,7,0.08,31.07,2022
+SG-10464,2022-09-04,East,Furniture,Furnishings,Home Office,121.44,2,0.07,29.69,2022
+SG-10627,2022-09-04,South,Office Supplies,Paper,Consumer,96.34,6,0.14,25.13,2022
+SG-11567,2022-09-07,Central,Furniture,Tables,Corporate,588.56,2,0.06,62.16,2022
+SG-10584,2022-09-09,West,Office Supplies,Paper,Corporate,128.51,2,0.11,-3.12,2022
+SG-10265,2022-09-09,West,Furniture,Tables,Home Office,419.13,2,0.24,49.0,2022
+SG-10402,2022-09-09,West,Furniture,Bookcases,Consumer,642.43,4,0.09,67.02,2022
+SG-11246,2022-09-09,East,Furniture,Tables,Corporate,701.63,6,0.15,81.52,2022
+SG-11285,2022-09-10,South,Office Supplies,Storage,Consumer,172.39,2,0.03,31.41,2022
+SG-10183,2022-09-10,West,Technology,Phones,Home Office,198.05,4,0.18,15.6,2022
+SG-10893,2022-09-11,South,Technology,Copiers,Consumer,335.29,4,0.09,46.49,2022
+SG-10620,2022-09-11,Central,Technology,Accessories,Consumer,120.11,1,0.14,6.06,2022
+SG-10191,2022-09-12,Central,Office Supplies,Storage,Consumer,64.65,7,0.04,-2.88,2022
+SG-10870,2022-09-14,East,Office Supplies,Binders,Consumer,100.98,7,0.06,19.79,2022
+SG-11218,2022-09-15,West,Furniture,Bookcases,Corporate,94.59,4,0.09,14.22,2022
+SG-11178,2022-09-16,East,Office Supplies,Art,Home Office,79.5,4,0.05,34.91,2022
+SG-10030,2022-09-16,Central,Office Supplies,Art,Consumer,130.0,3,0.12,30.12,2022
+SG-10418,2022-09-17,Central,Technology,Machines,Corporate,263.15,7,0.16,61.26,2022
+SG-11585,2022-09-18,East,Office Supplies,Labels,Consumer,145.83,3,0.18,11.87,2022
+SG-11115,2022-09-18,East,Furniture,Chairs,Consumer,121.12,2,0.02,-9.79,2022
+SG-10955,2022-09-19,South,Furniture,Chairs,Consumer,136.04,5,0.12,5.23,2022
+SG-11298,2022-09-19,Central,Furniture,Tables,Home Office,358.68,6,0.17,18.24,2022
+SG-11001,2022-09-19,East,Furniture,Chairs,Consumer,246.32,5,0.04,42.56,2022
+SG-10003,2022-09-19,South,Furniture,Chairs,Consumer,73.64,6,0.06,-9.59,2022
+SG-11566,2022-09-20,East,Furniture,Chairs,Consumer,119.59,1,0.04,-29.28,2022
+SG-10474,2022-09-21,East,Technology,Machines,Consumer,280.38,7,0.05,43.57,2022
+SG-11109,2022-09-21,East,Office Supplies,Paper,Consumer,180.6,7,0.1,-5.35,2022
+SG-11541,2022-09-22,Central,Furniture,Tables,Consumer,114.76,1,0.12,2.44,2022
+SG-11536,2022-09-23,East,Furniture,Tables,Home Office,226.19,4,0.15,9.32,2022
+SG-11144,2022-09-23,South,Office Supplies,Storage,Home Office,101.12,3,0.02,23.54,2022
+SG-10118,2022-09-24,East,Furniture,Bookcases,Corporate,157.36,2,0.05,24.58,2022
+SG-10843,2022-09-24,East,Office Supplies,Binders,Consumer,131.81,7,0.17,13.15,2022
+SG-11212,2022-09-25,South,Furniture,Chairs,Corporate,116.3,5,0.28,9.02,2022
+SG-11343,2022-09-25,South,Furniture,Chairs,Consumer,159.43,4,0.0,30.08,2022
+SG-10564,2022-09-26,East,Technology,Copiers,Corporate,173.22,7,0.15,26.07,2022
+SG-10049,2022-09-27,West,Furniture,Tables,Home Office,192.63,7,0.12,19.72,2022
+SG-10307,2022-09-27,Central,Office Supplies,Binders,Consumer,209.75,4,0.13,32.58,2022
+SG-10510,2022-09-27,West,Technology,Machines,Consumer,460.15,6,0.18,60.48,2022
+SG-10111,2022-09-28,East,Office Supplies,Paper,Corporate,133.14,6,0.19,-3.73,2022
+SG-10058,2022-09-29,West,Furniture,Tables,Corporate,204.23,7,0.12,46.74,2022
+SG-10325,2022-10-01,West,Office Supplies,Storage,Consumer,111.29,3,0.14,-22.64,2022
+SG-10143,2022-10-02,South,Furniture,Tables,Home Office,49.95,7,0.0,27.78,2022
+SG-11349,2022-10-02,Central,Technology,Machines,Home Office,260.86,5,0.22,49.04,2022
+SG-11506,2022-10-02,West,Furniture,Furnishings,Consumer,288.68,1,0.06,23.17,2022
+SG-11579,2022-10-04,East,Office Supplies,Art,Consumer,86.84,4,0.04,45.8,2022
+SG-10371,2022-10-05,West,Office Supplies,Binders,Consumer,107.71,2,0.07,26.69,2022
+SG-11414,2022-10-06,East,Office Supplies,Binders,Home Office,85.68,1,0.18,3.53,2022
+SG-11578,2022-10-06,West,Technology,Machines,Consumer,354.95,3,0.0,90.23,2022
+SG-11130,2022-10-06,West,Furniture,Furnishings,Corporate,71.74,6,0.04,21.28,2022
+SG-11501,2022-10-07,East,Furniture,Chairs,Consumer,192.69,7,0.11,24.6,2022
+SG-10846,2022-10-08,West,Furniture,Furnishings,Corporate,337.37,6,0.19,44.4,2022
+SG-11315,2022-10-09,Central,Furniture,Chairs,Consumer,136.93,7,0.06,-4.78,2022
+SG-10107,2022-10-10,East,Furniture,Tables,Consumer,117.29,5,0.19,-22.35,2022
+SG-10546,2022-10-10,South,Furniture,Chairs,Consumer,219.66,1,0.11,16.54,2022
+SG-10296,2022-10-11,East,Furniture,Furnishings,Consumer,133.06,2,0.07,21.29,2022
+SG-11300,2022-10-12,West,Office Supplies,Storage,Consumer,130.3,6,0.12,58.23,2022
+SG-10578,2022-10-13,West,Furniture,Tables,Home Office,108.51,7,0.05,9.97,2022
+SG-11434,2022-10-13,South,Office Supplies,Paper,Home Office,121.73,6,0.19,29.13,2022
+SG-10977,2022-10-14,Central,Furniture,Chairs,Home Office,185.07,7,0.32,-7.98,2022
+SG-10477,2022-10-16,West,Office Supplies,Paper,Consumer,367.52,7,0.05,77.19,2022
+SG-10917,2022-10-20,West,Technology,Machines,Corporate,528.25,6,0.28,44.27,2022
+SG-10285,2022-10-23,East,Technology,Accessories,Consumer,123.54,5,0.13,54.4,2022
+SG-10382,2022-10-24,East,Furniture,Chairs,Home Office,126.5,5,0.18,-28.62,2022
+SG-10861,2022-10-25,South,Furniture,Tables,Home Office,58.75,3,0.09,45.84,2022
+SG-10935,2022-10-27,South,Furniture,Chairs,Consumer,189.15,3,0.05,12.72,2022
+SG-10583,2022-10-27,East,Office Supplies,Paper,Consumer,52.41,5,0.13,20.76,2022
+SG-10750,2022-10-28,East,Furniture,Bookcases,Corporate,201.56,1,0.21,-4.87,2022
+SG-10131,2022-10-28,East,Furniture,Furnishings,Consumer,144.0,4,0.09,-12.15,2022
+SG-10119,2022-10-29,East,Technology,Copiers,Consumer,401.76,4,0.22,59.93,2022
+SG-11211,2022-10-29,Central,Office Supplies,Labels,Corporate,81.32,3,0.15,14.95,2022
+SG-10133,2022-11-01,East,Office Supplies,Labels,Consumer,190.26,6,0.17,29.45,2022
+SG-11598,2022-11-03,Central,Office Supplies,Binders,Consumer,75.5,7,0.21,19.94,2022
+SG-10232,2022-11-03,West,Office Supplies,Binders,Consumer,157.61,5,0.08,31.22,2022
+SG-10899,2022-11-04,Central,Technology,Accessories,Corporate,168.89,4,0.07,13.92,2022
+SG-11320,2022-11-05,South,Office Supplies,Paper,Consumer,78.51,4,0.05,-1.57,2022
+SG-10678,2022-11-05,East,Furniture,Chairs,Corporate,259.43,4,0.16,-1.91,2022
+SG-11558,2022-11-05,Central,Technology,Copiers,Corporate,132.03,3,0.22,33.45,2022
+SG-11544,2022-11-07,East,Furniture,Bookcases,Consumer,335.38,2,0.22,-8.42,2022
+SG-10420,2022-11-07,East,Office Supplies,Binders,Consumer,208.84,7,0.05,37.66,2022
+SG-10698,2022-11-08,East,Office Supplies,Labels,Corporate,142.72,6,0.1,-3.41,2022
+SG-11353,2022-11-09,West,Office Supplies,Labels,Corporate,250.18,6,0.24,11.57,2022
+SG-11574,2022-11-09,South,Furniture,Bookcases,Corporate,339.62,3,0.15,27.12,2022
+SG-10154,2022-11-11,East,Technology,Machines,Consumer,143.22,7,0.11,41.12,2022
+SG-10352,2022-11-12,East,Furniture,Furnishings,Consumer,119.44,5,0.08,18.17,2022
+SG-10168,2022-11-14,West,Office Supplies,Labels,Consumer,307.04,5,0.05,57.81,2022
+SG-10874,2022-11-15,West,Furniture,Chairs,Consumer,386.97,2,0.21,48.38,2022
+SG-10144,2022-11-17,West,Technology,Phones,Home Office,236.95,7,0.17,31.69,2022
+SG-10792,2022-11-17,Central,Technology,Copiers,Consumer,343.96,5,0.15,39.08,2022
+SG-10867,2022-11-18,West,Technology,Phones,Home Office,136.22,4,0.11,2.51,2022
+SG-11421,2022-11-19,East,Office Supplies,Storage,Corporate,201.09,4,0.0,22.99,2022
+SG-11002,2022-11-20,East,Furniture,Tables,Home Office,217.13,4,0.15,25.61,2022
+SG-11037,2022-11-22,East,Furniture,Chairs,Home Office,85.41,5,0.07,-9.19,2022
+SG-11517,2022-11-23,South,Furniture,Furnishings,Home Office,174.0,7,0.02,11.31,2022
+SG-11516,2022-11-23,Central,Office Supplies,Labels,Consumer,95.99,3,0.15,2.88,2022
+SG-10222,2022-11-23,South,Furniture,Furnishings,Consumer,203.7,3,0.2,6.98,2022
+SG-10404,2022-11-25,Central,Furniture,Tables,Consumer,208.33,6,0.16,28.68,2022
+SG-10220,2022-11-26,Central,Technology,Accessories,Consumer,149.2,3,0.2,37.94,2022
+SG-10732,2022-11-26,West,Office Supplies,Art,Consumer,339.56,4,0.1,53.38,2022
+SG-11294,2022-11-27,West,Technology,Accessories,Home Office,164.26,7,0.18,43.7,2022
+SG-10626,2022-11-27,Central,Office Supplies,Art,Consumer,86.2,6,0.22,17.7,2022
+SG-10065,2022-11-28,South,Office Supplies,Storage,Corporate,121.51,4,0.17,26.42,2022
+SG-11397,2022-11-28,Central,Office Supplies,Paper,Consumer,61.34,6,0.1,-10.96,2022
+SG-11127,2022-11-28,East,Furniture,Chairs,Home Office,133.76,7,0.07,0.81,2022
+SG-11274,2022-11-29,West,Technology,Phones,Home Office,338.0,4,0.12,85.09,2022
+SG-10756,2022-11-29,South,Technology,Copiers,Corporate,202.23,1,0.11,35.6,2022
+SG-11390,2022-11-30,Central,Furniture,Furnishings,Consumer,146.33,2,0.24,30.74,2022
+SG-10029,2022-12-01,South,Technology,Machines,Corporate,179.96,4,0.28,-5.42,2022
+SG-11122,2022-12-04,East,Furniture,Tables,Consumer,378.17,4,0.11,28.04,2022
+SG-10574,2022-12-07,East,Furniture,Bookcases,Corporate,456.49,3,0.09,13.75,2022
+SG-10422,2022-12-07,Central,Furniture,Chairs,Consumer,120.43,3,0.08,13.7,2022
+SG-10106,2022-12-07,Central,Technology,Machines,Consumer,199.06,1,0.25,12.84,2022
+SG-10660,2022-12-08,South,Office Supplies,Labels,Consumer,56.92,1,0.19,-28.67,2022
+SG-11019,2022-12-08,West,Office Supplies,Binders,Consumer,70.99,5,0.09,-13.6,2022
+SG-10250,2022-12-09,West,Office Supplies,Paper,Corporate,88.17,3,0.08,-30.78,2022
+SG-10252,2022-12-10,East,Office Supplies,Art,Consumer,38.19,1,0.04,5.43,2022
+SG-10244,2022-12-10,Central,Office Supplies,Labels,Corporate,135.31,5,0.13,22.86,2022
+SG-10764,2022-12-11,East,Furniture,Tables,Consumer,156.45,4,0.07,-10.16,2022
+SG-10590,2022-12-12,Central,Office Supplies,Labels,Corporate,305.38,1,0.23,26.01,2022
+SG-11519,2022-12-12,East,Furniture,Tables,Consumer,214.09,2,0.0,14.89,2022
+SG-11503,2022-12-13,East,Office Supplies,Storage,Consumer,73.14,1,0.14,3.2,2022
+SG-10599,2022-12-15,West,Furniture,Tables,Corporate,198.66,7,0.06,19.51,2022
+SG-10501,2022-12-15,Central,Office Supplies,Labels,Consumer,106.89,3,0.0,48.84,2022
+SG-10916,2022-12-15,East,Office Supplies,Art,Consumer,84.91,2,0.24,-17.06,2022
+SG-10986,2022-12-15,South,Technology,Phones,Corporate,169.05,2,0.14,7.46,2022
+SG-10235,2022-12-16,West,Technology,Copiers,Corporate,422.98,1,0.06,77.37,2022
+SG-10601,2022-12-18,West,Office Supplies,Labels,Corporate,108.55,6,0.26,29.26,2022
+SG-10651,2022-12-19,East,Furniture,Furnishings,Consumer,217.54,3,0.22,-10.0,2022
+SG-10230,2022-12-21,East,Office Supplies,Labels,Consumer,174.69,7,0.09,16.6,2022
+SG-10544,2022-12-21,West,Furniture,Chairs,Consumer,222.43,7,0.07,37.75,2022
+SG-10994,2022-12-22,Central,Office Supplies,Binders,Home Office,134.39,7,0.05,10.4,2022
+SG-10671,2022-12-23,East,Office Supplies,Binders,Corporate,125.22,7,0.06,51.52,2022
+SG-10486,2022-12-23,West,Furniture,Chairs,Corporate,195.37,2,0.13,-3.82,2022
+SG-10972,2022-12-25,Central,Technology,Phones,Corporate,259.32,6,0.14,63.38,2022
+SG-11018,2022-12-26,East,Technology,Copiers,Home Office,148.49,2,0.11,41.71,2022
+SG-11271,2022-12-26,South,Office Supplies,Paper,Home Office,172.34,2,0.25,19.8,2022
+SG-10339,2022-12-28,Central,Technology,Accessories,Corporate,301.15,6,0.14,56.26,2022
+SG-11041,2022-12-28,Central,Office Supplies,Binders,Consumer,111.45,4,0.0,-17.92,2022
+SG-10454,2022-12-29,West,Furniture,Bookcases,Consumer,192.15,4,0.04,1.1,2022
+SG-10116,2022-12-31,South,Office Supplies,Art,Consumer,99.1,4,0.14,23.39,2022
+SG-11555,2022-12-31,South,Technology,Phones,Consumer,279.8,5,0.22,77.86,2022
+SG-10913,2023-01-03,West,Office Supplies,Labels,Corporate,210.04,5,0.04,32.97,2023
+SG-10638,2023-01-05,Central,Office Supplies,Binders,Corporate,253.43,2,0.19,0.19,2023
+SG-11071,2023-01-05,West,Office Supplies,Paper,Consumer,82.25,1,0.14,-0.79,2023
+SG-10581,2023-01-06,South,Office Supplies,Paper,Consumer,152.73,5,0.07,0.17,2023
+SG-10405,2023-01-06,East,Furniture,Bookcases,Home Office,244.5,5,0.25,-2.81,2023
+SG-11233,2023-01-07,Central,Technology,Phones,Consumer,286.53,5,0.05,56.05,2023
+SG-10602,2023-01-08,Central,Office Supplies,Storage,Corporate,90.67,3,0.09,30.42,2023
+SG-10616,2023-01-10,West,Furniture,Tables,Home Office,208.56,2,0.13,11.83,2023
+SG-10869,2023-01-11,West,Furniture,Bookcases,Corporate,401.82,4,0.19,10.58,2023
+SG-10037,2023-01-11,West,Furniture,Furnishings,Consumer,223.18,5,0.2,5.5,2023
+SG-10366,2023-01-12,West,Office Supplies,Binders,Consumer,183.23,3,0.05,30.07,2023
+SG-11036,2023-01-12,East,Technology,Copiers,Home Office,275.09,7,0.0,34.19,2023
+SG-10469,2023-01-12,Central,Office Supplies,Binders,Consumer,41.04,7,0.05,11.57,2023
+SG-11375,2023-01-13,Central,Office Supplies,Storage,Consumer,187.73,5,0.15,24.76,2023
+SG-11027,2023-01-13,Central,Technology,Accessories,Consumer,319.98,2,0.11,73.16,2023
+SG-10329,2023-01-16,Central,Furniture,Bookcases,Consumer,122.1,3,0.16,19.81,2023
+SG-10074,2023-01-18,West,Office Supplies,Paper,Consumer,310.92,7,0.1,51.68,2023
+SG-11067,2023-01-19,Central,Office Supplies,Binders,Home Office,175.67,5,0.17,21.49,2023
+SG-11089,2023-01-19,West,Office Supplies,Binders,Consumer,201.67,3,0.14,35.27,2023
+SG-11206,2023-01-20,South,Office Supplies,Paper,Corporate,163.01,7,0.06,58.35,2023
+SG-10737,2023-01-22,East,Office Supplies,Paper,Consumer,141.78,5,0.03,26.3,2023
+SG-11181,2023-01-24,Central,Office Supplies,Binders,Home Office,238.85,2,0.12,23.76,2023
+SG-10228,2023-01-24,South,Office Supplies,Storage,Corporate,56.67,6,0.0,16.94,2023
+SG-11537,2023-01-24,East,Office Supplies,Paper,Consumer,75.98,5,0.05,-2.12,2023
+SG-11523,2023-01-25,West,Office Supplies,Binders,Consumer,140.62,7,0.2,39.3,2023
+SG-10186,2023-01-25,West,Furniture,Bookcases,Home Office,108.67,4,0.01,11.94,2023
+SG-10780,2023-01-26,South,Furniture,Tables,Consumer,134.92,1,0.17,5.26,2023
+SG-11316,2023-01-26,Central,Technology,Accessories,Home Office,169.5,2,0.08,-0.53,2023
+SG-10611,2023-01-27,Central,Office Supplies,Labels,Consumer,187.43,2,0.0,54.23,2023
+SG-10187,2023-01-27,South,Office Supplies,Art,Corporate,261.44,6,0.05,59.57,2023
+SG-11199,2023-01-29,East,Technology,Copiers,Consumer,470.56,4,0.16,84.67,2023
+SG-10716,2023-01-29,East,Technology,Accessories,Home Office,326.38,3,0.2,65.89,2023
+SG-10729,2023-01-31,Central,Office Supplies,Binders,Consumer,250.69,4,0.17,34.61,2023
+SG-10543,2023-02-01,East,Technology,Accessories,Home Office,210.69,5,0.24,67.56,2023
+SG-10622,2023-02-02,Central,Furniture,Bookcases,Consumer,220.5,3,0.24,43.2,2023
+SG-10457,2023-02-02,West,Furniture,Bookcases,Consumer,90.28,6,0.2,2.13,2023
+SG-10146,2023-02-03,East,Technology,Accessories,Corporate,271.98,7,0.1,65.18,2023
+SG-10685,2023-02-03,West,Furniture,Tables,Corporate,141.84,3,0.04,18.56,2023
+SG-10476,2023-02-03,West,Office Supplies,Labels,Corporate,168.95,1,0.0,27.87,2023
+SG-11081,2023-02-04,West,Technology,Copiers,Corporate,391.23,2,0.06,77.15,2023
+SG-10912,2023-02-05,Central,Office Supplies,Storage,Consumer,41.49,2,0.05,10.45,2023
+SG-10485,2023-02-05,West,Furniture,Bookcases,Corporate,316.29,6,0.18,15.35,2023
+SG-11342,2023-02-06,West,Office Supplies,Storage,Consumer,128.83,5,0.03,51.69,2023
+SG-10937,2023-02-07,South,Office Supplies,Labels,Home Office,72.58,1,0.1,23.46,2023
+SG-11352,2023-02-07,Central,Technology,Copiers,Home Office,328.26,3,0.07,60.32,2023
+SG-10999,2023-02-07,East,Office Supplies,Art,Corporate,180.56,1,0.21,21.0,2023
+SG-10173,2023-02-07,East,Furniture,Chairs,Consumer,303.46,1,0.12,10.04,2023
+SG-11483,2023-02-07,East,Furniture,Bookcases,Consumer,224.0,1,0.05,19.14,2023
+SG-11105,2023-02-08,West,Office Supplies,Storage,Consumer,314.42,4,0.16,43.4,2023
+SG-11170,2023-02-08,Central,Office Supplies,Binders,Consumer,106.0,2,0.14,11.61,2023
+SG-10879,2023-02-08,Central,Office Supplies,Storage,Consumer,132.53,5,0.08,7.48,2023
+SG-10353,2023-02-10,South,Furniture,Chairs,Consumer,153.12,6,0.19,17.33,2023
+SG-11487,2023-02-10,East,Office Supplies,Binders,Corporate,203.83,4,0.08,50.44,2023
+SG-10304,2023-02-12,West,Technology,Machines,Consumer,436.51,2,0.08,69.83,2023
+SG-10819,2023-02-13,East,Technology,Machines,Consumer,574.99,2,0.17,117.04,2023
+SG-11257,2023-02-14,East,Office Supplies,Binders,Consumer,136.89,2,0.08,16.18,2023
+SG-10728,2023-02-15,South,Office Supplies,Labels,Corporate,88.66,1,0.1,-6.82,2023
+SG-10373,2023-02-16,West,Office Supplies,Storage,Consumer,103.22,3,0.1,18.06,2023
+SG-10924,2023-02-18,Central,Office Supplies,Art,Corporate,126.02,5,0.12,9.46,2023
+SG-10182,2023-02-19,East,Technology,Machines,Home Office,186.91,5,0.17,59.71,2023
+SG-10359,2023-02-19,West,Technology,Phones,Consumer,259.81,2,0.12,41.44,2023
+SG-11389,2023-02-19,Central,Technology,Accessories,Consumer,283.09,5,0.08,44.27,2023
+SG-10830,2023-02-20,West,Office Supplies,Paper,Consumer,177.65,1,0.1,36.7,2023
+SG-11244,2023-02-21,Central,Technology,Phones,Consumer,169.91,7,0.11,24.63,2023
+SG-10989,2023-02-22,West,Office Supplies,Binders,Consumer,298.9,7,0.28,20.39,2023
+SG-10130,2023-02-24,Central,Office Supplies,Binders,Consumer,248.34,6,0.0,48.54,2023
+SG-11324,2023-02-25,Central,Office Supplies,Paper,Corporate,120.86,5,0.14,59.9,2023
+SG-10561,2023-02-25,West,Office Supplies,Storage,Consumer,213.89,6,0.0,8.45,2023
+SG-11282,2023-02-25,East,Technology,Copiers,Consumer,227.77,4,0.02,18.45,2023
+SG-10044,2023-02-26,South,Office Supplies,Labels,Home Office,274.12,3,0.21,29.5,2023
+SG-11348,2023-02-26,Central,Office Supplies,Labels,Consumer,62.9,6,0.04,20.44,2023
+SG-11242,2023-03-02,East,Technology,Copiers,Home Office,357.37,5,0.06,62.85,2023
+SG-11484,2023-03-03,East,Technology,Phones,Consumer,240.63,2,0.06,88.14,2023
+SG-10836,2023-03-04,East,Office Supplies,Art,Consumer,139.21,2,0.27,-2.92,2023
+SG-11344,2023-03-05,East,Office Supplies,Binders,Corporate,126.28,3,0.04,63.48,2023
+SG-10841,2023-03-07,East,Technology,Machines,Corporate,356.68,3,0.06,82.94,2023
+SG-10482,2023-03-08,East,Technology,Phones,Corporate,322.83,1,0.21,63.95,2023
+SG-10343,2023-03-09,Central,Office Supplies,Storage,Consumer,98.33,2,0.29,-12.71,2023
+SG-10961,2023-03-09,West,Office Supplies,Art,Corporate,173.84,7,0.14,11.79,2023
+SG-11237,2023-03-10,East,Technology,Copiers,Consumer,492.47,6,0.11,97.24,2023
+SG-10509,2023-03-11,East,Office Supplies,Labels,Consumer,188.74,4,0.22,-0.05,2023
+SG-10242,2023-03-13,South,Technology,Accessories,Consumer,474.36,7,0.0,83.58,2023
+SG-10974,2023-03-13,West,Furniture,Chairs,Corporate,153.7,4,0.19,49.37,2023
+SG-10721,2023-03-14,Central,Furniture,Furnishings,Consumer,96.29,3,0.03,-11.23,2023
+SG-10723,2023-03-14,Central,Office Supplies,Labels,Consumer,230.26,6,0.15,16.57,2023
+SG-10124,2023-03-15,South,Furniture,Furnishings,Consumer,265.64,1,0.07,24.17,2023
+SG-11372,2023-03-16,Central,Office Supplies,Binders,Consumer,329.85,3,0.18,43.91,2023
+SG-11090,2023-03-16,West,Furniture,Furnishings,Corporate,306.99,7,0.2,40.89,2023
+SG-10042,2023-03-18,Central,Technology,Phones,Consumer,306.79,3,0.05,94.29,2023
+SG-10108,2023-03-19,Central,Furniture,Furnishings,Consumer,234.14,7,0.18,23.26,2023
+SG-11119,2023-03-21,Central,Office Supplies,Binders,Consumer,128.17,2,0.11,21.51,2023
+SG-11214,2023-03-21,South,Office Supplies,Binders,Consumer,110.36,7,0.09,-5.07,2023
+SG-10214,2023-03-22,Central,Furniture,Furnishings,Consumer,377.65,7,0.04,24.56,2023
+SG-11247,2023-03-22,Central,Technology,Accessories,Corporate,154.3,6,0.26,18.39,2023
+SG-10801,2023-03-22,Central,Furniture,Chairs,Consumer,105.83,2,0.25,-1.84,2023
+SG-11219,2023-03-23,Central,Technology,Machines,Corporate,312.59,6,0.22,43.27,2023
+SG-10686,2023-03-23,West,Office Supplies,Storage,Consumer,253.12,7,0.01,38.79,2023
+SG-10177,2023-03-24,West,Furniture,Bookcases,Consumer,264.91,2,0.13,21.8,2023
+SG-11136,2023-03-24,East,Furniture,Chairs,Consumer,312.6,7,0.09,48.88,2023
+SG-11075,2023-03-25,Central,Office Supplies,Labels,Consumer,205.48,4,0.06,76.37,2023
+SG-11549,2023-03-25,East,Furniture,Bookcases,Consumer,232.44,3,0.06,5.68,2023
+SG-10121,2023-03-26,West,Technology,Phones,Corporate,348.11,5,0.17,42.18,2023
+SG-10589,2023-03-28,Central,Office Supplies,Art,Consumer,32.99,5,0.22,14.22,2023
+SG-11128,2023-03-29,South,Office Supplies,Paper,Corporate,184.59,1,0.19,69.51,2023
+SG-10541,2023-03-30,South,Technology,Copiers,Corporate,455.97,1,0.16,72.22,2023
+SG-10424,2023-03-30,South,Furniture,Furnishings,Home Office,187.42,6,0.01,18.94,2023
+SG-10722,2023-03-30,West,Office Supplies,Art,Consumer,119.73,3,0.0,62.99,2023
+SG-10497,2023-03-30,Central,Furniture,Bookcases,Consumer,347.43,6,0.19,13.32,2023
+SG-11439,2023-03-31,East,Technology,Accessories,Consumer,217.48,7,0.26,-6.93,2023
+SG-10271,2023-04-01,East,Furniture,Bookcases,Consumer,197.11,6,0.04,-0.91,2023
+SG-10849,2023-04-05,South,Technology,Machines,Consumer,154.29,4,0.16,11.23,2023
+SG-10898,2023-04-05,Central,Technology,Machines,Home Office,242.08,4,0.24,8.42,2023
+SG-10293,2023-04-06,East,Furniture,Furnishings,Home Office,193.24,3,0.21,-29.66,2023
+SG-10805,2023-04-07,West,Technology,Phones,Corporate,714.02,3,0.21,103.77,2023
+SG-11180,2023-04-08,East,Office Supplies,Art,Consumer,202.15,1,0.15,64.83,2023
+SG-11478,2023-04-09,East,Office Supplies,Paper,Consumer,148.06,3,0.12,28.41,2023
+SG-10137,2023-04-10,South,Furniture,Tables,Consumer,273.82,2,0.12,7.72,2023
+SG-10545,2023-04-11,West,Furniture,Bookcases,Consumer,56.15,1,0.13,-10.91,2023
+SG-10591,2023-04-12,South,Office Supplies,Binders,Consumer,61.58,6,0.05,17.44,2023
+SG-10815,2023-04-14,East,Furniture,Bookcases,Corporate,177.51,3,0.16,6.54,2023
+SG-11302,2023-04-20,Central,Office Supplies,Storage,Consumer,243.47,3,0.06,65.08,2023
+SG-11325,2023-04-22,South,Furniture,Chairs,Corporate,119.84,2,0.03,21.61,2023
+SG-10566,2023-04-22,East,Office Supplies,Labels,Consumer,193.41,4,0.19,37.21,2023
+SG-10902,2023-04-22,Central,Office Supplies,Labels,Corporate,342.04,6,0.01,28.97,2023
+SG-10993,2023-04-23,Central,Office Supplies,Art,Home Office,149.39,1,0.2,-13.35,2023
+SG-10171,2023-04-24,Central,Office Supplies,Art,Consumer,256.79,6,0.08,49.75,2023
+SG-10969,2023-04-24,South,Furniture,Furnishings,Corporate,133.71,2,0.05,-40.28,2023
+SG-10931,2023-04-24,East,Technology,Accessories,Consumer,281.23,2,0.15,60.2,2023
+SG-10463,2023-04-25,West,Furniture,Chairs,Consumer,134.19,7,0.18,-11.22,2023
+SG-11504,2023-04-25,Central,Office Supplies,Paper,Consumer,124.08,2,0.12,27.82,2023
+SG-10386,2023-04-26,South,Furniture,Chairs,Consumer,170.02,7,0.11,-13.38,2023
+SG-11303,2023-04-26,West,Furniture,Tables,Consumer,448.43,5,0.12,65.86,2023
+SG-11529,2023-04-27,East,Office Supplies,Storage,Corporate,180.16,1,0.02,55.83,2023
+SG-11295,2023-04-27,South,Office Supplies,Paper,Consumer,180.24,6,0.16,29.94,2023
+SG-11287,2023-04-28,West,Office Supplies,Paper,Consumer,288.2,2,0.04,27.77,2023
+SG-10811,2023-04-29,Central,Furniture,Furnishings,Corporate,267.6,6,0.15,27.81,2023
+SG-10153,2023-04-30,East,Office Supplies,Paper,Corporate,103.68,5,0.07,22.01,2023
+SG-10831,2023-05-01,South,Office Supplies,Binders,Consumer,84.08,2,0.22,7.16,2023
+SG-10605,2023-05-01,East,Office Supplies,Paper,Consumer,196.71,4,0.0,28.9,2023
+SG-11492,2023-05-02,Central,Office Supplies,Binders,Corporate,215.41,3,0.24,32.38,2023
+SG-11366,2023-05-03,South,Office Supplies,Paper,Home Office,227.9,2,0.0,12.69,2023
+SG-10303,2023-05-03,East,Office Supplies,Paper,Consumer,149.63,3,0.09,6.85,2023
+SG-10299,2023-05-05,East,Office Supplies,Labels,Consumer,63.73,2,0.13,58.99,2023
+SG-11045,2023-05-05,West,Furniture,Bookcases,Consumer,177.38,7,0.12,-12.7,2023
+SG-10521,2023-05-05,West,Furniture,Tables,Consumer,180.84,7,0.07,41.11,2023
+SG-10128,2023-05-07,West,Furniture,Bookcases,Corporate,297.93,5,0.19,34.6,2023
+SG-10280,2023-05-07,East,Office Supplies,Labels,Corporate,241.89,6,0.13,0.63,2023
+SG-11056,2023-05-08,West,Furniture,Tables,Consumer,126.23,5,0.0,3.09,2023
+SG-11085,2023-05-08,Central,Technology,Machines,Consumer,601.65,7,0.32,41.31,2023
+SG-10142,2023-05-08,West,Technology,Accessories,Corporate,577.16,3,0.2,101.82,2023
+SG-11207,2023-05-09,Central,Office Supplies,Labels,Corporate,408.0,6,0.14,48.56,2023
+SG-11374,2023-05-11,South,Furniture,Furnishings,Corporate,214.33,1,0.14,-3.07,2023
+SG-10864,2023-05-12,East,Technology,Copiers,Home Office,189.4,7,0.0,64.63,2023
+SG-11527,2023-05-14,Central,Office Supplies,Storage,Corporate,533.43,3,0.14,77.58,2023
+SG-10019,2023-05-15,Central,Office Supplies,Binders,Consumer,153.57,3,0.13,35.02,2023
+SG-10007,2023-05-16,West,Technology,Machines,Corporate,203.05,5,0.0,57.8,2023
+SG-10557,2023-05-16,West,Technology,Copiers,Consumer,334.32,1,0.16,49.11,2023
+SG-11072,2023-05-24,Central,Furniture,Furnishings,Consumer,761.37,1,0.11,81.53,2023
+SG-10209,2023-05-24,West,Furniture,Bookcases,Corporate,458.64,4,0.21,41.87,2023
+SG-10378,2023-05-24,West,Furniture,Tables,Home Office,155.75,7,0.1,31.88,2023
+SG-10100,2023-05-24,East,Office Supplies,Labels,Home Office,142.7,7,0.26,29.25,2023
+SG-10043,2023-05-24,Central,Office Supplies,Labels,Consumer,117.66,2,0.11,37.89,2023
+SG-11422,2023-05-24,East,Technology,Machines,Corporate,343.67,3,0.2,60.68,2023
+SG-11340,2023-05-27,South,Office Supplies,Storage,Corporate,380.08,6,0.03,94.52,2023
+SG-10635,2023-05-28,Central,Technology,Phones,Home Office,237.49,4,0.15,76.49,2023
+SG-10834,2023-05-28,South,Furniture,Tables,Consumer,333.09,6,0.1,19.43,2023
+SG-10110,2023-05-31,Central,Furniture,Chairs,Corporate,296.18,4,0.0,29.39,2023
+SG-11468,2023-05-31,West,Office Supplies,Labels,Consumer,230.66,2,0.24,43.28,2023
+SG-10219,2023-06-01,East,Office Supplies,Binders,Consumer,866.9,5,0.08,142.68,2023
+SG-10786,2023-06-04,West,Furniture,Bookcases,Consumer,257.65,4,0.07,41.86,2023
+SG-11474,2023-06-04,Central,Furniture,Tables,Corporate,404.07,2,0.06,4.39,2023
+SG-11087,2023-06-06,West,Furniture,Tables,Consumer,108.84,5,0.0,18.94,2023
+SG-10444,2023-06-06,West,Furniture,Bookcases,Consumer,159.06,3,0.24,2.21,2023
+SG-10637,2023-06-10,East,Technology,Phones,Consumer,335.21,5,0.05,76.88,2023
+SG-10958,2023-06-11,West,Office Supplies,Labels,Corporate,244.86,7,0.17,38.47,2023
+SG-10033,2023-06-12,East,Office Supplies,Storage,Home Office,143.44,4,0.0,41.66,2023
+SG-11528,2023-06-12,West,Technology,Copiers,Home Office,189.03,5,0.06,31.27,2023
+SG-11419,2023-06-12,West,Technology,Accessories,Consumer,314.55,3,0.23,23.15,2023
+SG-11568,2023-06-13,Central,Office Supplies,Labels,Corporate,142.69,3,0.12,4.82,2023
+SG-11065,2023-06-13,West,Technology,Phones,Consumer,206.1,4,0.29,28.38,2023
+SG-11052,2023-06-14,South,Technology,Phones,Consumer,175.8,7,0.2,2.3,2023
+SG-11479,2023-06-15,East,Technology,Accessories,Home Office,379.27,4,0.15,40.84,2023
+SG-10484,2023-06-15,West,Office Supplies,Binders,Consumer,209.47,7,0.17,17.69,2023
+SG-10162,2023-06-16,West,Technology,Accessories,Home Office,235.5,6,0.04,60.48,2023
+SG-10040,2023-06-16,East,Office Supplies,Art,Consumer,175.59,5,0.08,85.82,2023
+SG-10655,2023-06-17,West,Furniture,Chairs,Home Office,100.24,6,0.14,-23.77,2023
+SG-11556,2023-06-18,East,Office Supplies,Storage,Home Office,70.91,4,0.18,34.42,2023
+SG-11380,2023-06-18,West,Office Supplies,Binders,Consumer,122.64,3,0.18,42.19,2023
+SG-10297,2023-06-18,West,Office Supplies,Paper,Consumer,358.99,6,0.14,62.04,2023
+SG-11143,2023-06-18,East,Office Supplies,Labels,Consumer,170.19,4,0.06,22.8,2023
+SG-11592,2023-06-19,East,Furniture,Furnishings,Corporate,459.59,4,0.26,-13.33,2023
+SG-11059,2023-06-21,East,Furniture,Furnishings,Home Office,413.83,3,0.05,16.15,2023
+SG-10277,2023-06-22,Central,Office Supplies,Storage,Home Office,376.06,2,0.08,102.53,2023
+SG-11384,2023-06-25,Central,Technology,Copiers,Corporate,362.14,7,0.13,71.82,2023
+SG-10552,2023-06-26,West,Technology,Accessories,Consumer,188.07,4,0.16,57.98,2023
+SG-11175,2023-06-27,Central,Office Supplies,Binders,Consumer,110.94,6,0.2,29.37,2023
+SG-10438,2023-06-29,South,Office Supplies,Binders,Home Office,242.67,4,0.08,27.15,2023
+SG-10871,2023-06-29,East,Office Supplies,Paper,Home Office,183.52,4,0.12,29.59,2023
+SG-10973,2023-07-01,East,Furniture,Tables,Consumer,353.02,4,0.1,36.8,2023
+SG-10854,2023-07-02,West,Office Supplies,Paper,Consumer,151.05,3,0.11,50.81,2023
+SG-10254,2023-07-03,Central,Office Supplies,Art,Consumer,218.79,6,0.18,1.91,2023
+SG-10527,2023-07-05,West,Furniture,Furnishings,Consumer,146.93,2,0.08,2.0,2023
+SG-11015,2023-07-07,East,Technology,Machines,Corporate,610.72,6,0.08,80.21,2023
+SG-10160,2023-07-07,Central,Office Supplies,Paper,Corporate,143.81,3,0.07,31.13,2023
+SG-10612,2023-07-07,South,Office Supplies,Paper,Consumer,281.57,5,0.06,60.85,2023
+SG-10026,2023-07-08,Central,Furniture,Furnishings,Home Office,104.11,2,0.04,20.78,2023
+SG-11066,2023-07-08,West,Office Supplies,Storage,Home Office,155.01,2,0.21,43.27,2023
+SG-11080,2023-07-09,South,Furniture,Bookcases,Consumer,139.46,2,0.08,45.83,2023
+SG-10946,2023-07-10,East,Office Supplies,Storage,Home Office,82.34,6,0.19,24.01,2023
+SG-10794,2023-07-11,South,Office Supplies,Paper,Home Office,115.67,3,0.27,4.05,2023
+SG-10649,2023-07-12,South,Office Supplies,Storage,Consumer,171.59,6,0.18,12.74,2023
+SG-10085,2023-07-14,East,Technology,Phones,Home Office,257.07,5,0.13,15.93,2023
+SG-10056,2023-07-14,South,Office Supplies,Binders,Consumer,223.65,6,0.12,25.34,2023
+SG-10211,2023-07-15,South,Furniture,Bookcases,Corporate,132.86,5,0.09,-12.86,2023
+SG-10141,2023-07-16,West,Technology,Copiers,Home Office,174.79,4,0.14,50.92,2023
+SG-10417,2023-07-19,West,Office Supplies,Art,Corporate,76.48,1,0.04,21.74,2023
+SG-10636,2023-07-19,Central,Furniture,Bookcases,Home Office,75.09,1,0.19,-0.69,2023
+SG-10270,2023-07-20,East,Office Supplies,Storage,Corporate,189.2,2,0.27,-16.66,2023
+SG-10688,2023-07-20,West,Office Supplies,Storage,Consumer,88.83,2,0.14,-10.42,2023
+SG-11447,2023-07-20,Central,Office Supplies,Binders,Consumer,266.95,2,0.1,46.74,2023
+SG-11273,2023-07-20,East,Office Supplies,Storage,Corporate,351.12,4,0.31,38.87,2023
+SG-10376,2023-07-20,South,Office Supplies,Paper,Consumer,183.56,4,0.1,13.36,2023
+SG-10338,2023-07-21,Central,Technology,Copiers,Consumer,357.34,6,0.12,58.6,2023
+SG-11580,2023-07-22,Central,Technology,Copiers,Home Office,197.9,6,0.12,37.17,2023
+SG-10921,2023-07-23,South,Office Supplies,Paper,Consumer,237.84,7,0.0,56.08,2023
+SG-10115,2023-07-23,South,Furniture,Chairs,Consumer,144.32,2,0.2,27.96,2023
+SG-10006,2023-07-24,South,Office Supplies,Paper,Home Office,182.68,5,0.1,2.34,2023
+SG-11377,2023-07-25,Central,Technology,Accessories,Consumer,412.33,6,0.03,53.58,2023
+SG-10188,2023-07-27,East,Office Supplies,Art,Consumer,143.68,6,0.1,34.18,2023
+SG-10664,2023-07-27,South,Office Supplies,Labels,Home Office,215.31,6,0.26,17.57,2023
+SG-11392,2023-07-27,West,Technology,Accessories,Corporate,262.32,6,0.13,78.73,2023
+SG-10696,2023-07-27,South,Furniture,Bookcases,Consumer,205.21,7,0.01,30.42,2023
+SG-10397,2023-07-28,Central,Technology,Machines,Home Office,407.12,4,0.11,52.35,2023
+SG-10606,2023-07-28,South,Furniture,Chairs,Corporate,394.84,1,0.04,3.14,2023
+SG-11550,2023-07-29,East,Office Supplies,Labels,Home Office,202.56,6,0.16,46.42,2023
+SG-10383,2023-07-29,West,Office Supplies,Storage,Consumer,255.86,4,0.07,50.01,2023
+SG-10594,2023-07-30,South,Office Supplies,Paper,Corporate,181.31,3,0.21,7.15,2023
+SG-10885,2023-07-31,Central,Furniture,Furnishings,Corporate,114.44,6,0.23,-1.07,2023
+SG-10288,2023-07-31,West,Technology,Machines,Home Office,189.74,4,0.1,20.57,2023
+SG-10023,2023-07-31,East,Office Supplies,Labels,Home Office,115.64,4,0.16,3.21,2023
+SG-11443,2023-08-01,East,Technology,Phones,Corporate,404.06,5,0.16,36.9,2023
+SG-10161,2023-08-01,East,Furniture,Furnishings,Home Office,266.13,5,0.0,-13.13,2023
+SG-10575,2023-08-03,Central,Technology,Machines,Consumer,460.1,5,0.18,46.33,2023
+SG-11154,2023-08-05,Central,Furniture,Bookcases,Consumer,76.67,4,0.03,-3.64,2023
+SG-10759,2023-08-06,Central,Furniture,Bookcases,Consumer,169.99,4,0.06,10.07,2023
+SG-10927,2023-08-06,East,Technology,Machines,Consumer,287.34,1,0.03,53.0,2023
+SG-10906,2023-08-07,East,Technology,Machines,Consumer,439.68,3,0.2,85.51,2023
+SG-11573,2023-08-08,East,Technology,Machines,Consumer,703.36,1,0.09,124.08,2023
+SG-10267,2023-08-08,West,Technology,Machines,Consumer,166.58,5,0.26,39.8,2023
+SG-11012,2023-08-10,Central,Technology,Machines,Consumer,359.5,7,0.15,46.8,2023
+SG-10381,2023-08-10,Central,Technology,Copiers,Consumer,368.76,7,0.19,26.75,2023
+SG-10577,2023-08-12,West,Furniture,Bookcases,Corporate,375.2,2,0.03,39.16,2023
+SG-10998,2023-08-12,South,Office Supplies,Storage,Home Office,161.01,7,0.23,17.62,2023
+SG-10930,2023-08-14,West,Furniture,Furnishings,Home Office,211.14,3,0.0,14.63,2023
+SG-10918,2023-08-14,West,Office Supplies,Binders,Corporate,112.08,7,0.1,-3.51,2023
+SG-11322,2023-08-15,South,Office Supplies,Storage,Consumer,71.7,4,0.09,6.44,2023
+SG-10573,2023-08-15,South,Office Supplies,Art,Consumer,226.7,6,0.0,31.41,2023
+SG-10240,2023-08-16,West,Office Supplies,Binders,Home Office,166.71,4,0.06,22.64,2023
+SG-10813,2023-08-17,South,Office Supplies,Labels,Consumer,63.0,4,0.0,19.25,2023
+SG-10136,2023-08-17,West,Technology,Machines,Corporate,367.61,2,0.07,61.94,2023
+SG-10790,2023-08-19,West,Office Supplies,Storage,Consumer,168.85,2,0.05,13.05,2023
+SG-10262,2023-08-20,East,Technology,Machines,Home Office,670.23,4,0.32,86.99,2023
+SG-10104,2023-08-21,Central,Technology,Machines,Consumer,108.69,5,0.25,-22.87,2023
+SG-11476,2023-08-21,Central,Furniture,Furnishings,Consumer,232.38,4,0.17,18.15,2023
+SG-10215,2023-08-23,East,Office Supplies,Labels,Consumer,195.27,3,0.18,-2.26,2023
+SG-10070,2023-08-25,East,Office Supplies,Binders,Home Office,130.8,3,0.29,13.25,2023
+SG-10990,2023-08-25,West,Furniture,Tables,Home Office,182.45,2,0.15,7.27,2023
+SG-10517,2023-08-26,East,Furniture,Chairs,Consumer,188.24,2,0.21,-1.83,2023
+SG-11426,2023-08-26,West,Furniture,Bookcases,Corporate,460.7,5,0.09,47.33,2023
+SG-10155,2023-08-27,East,Office Supplies,Binders,Consumer,141.53,4,0.0,51.97,2023
+SG-11171,2023-08-28,East,Office Supplies,Labels,Consumer,68.49,3,0.1,18.81,2023
+SG-10985,2023-09-03,West,Office Supplies,Paper,Consumer,92.89,5,0.18,-2.11,2023
+SG-10828,2023-09-03,Central,Furniture,Furnishings,Consumer,105.18,1,0.15,46.52,2023
+SG-10542,2023-09-04,South,Office Supplies,Storage,Consumer,351.19,7,0.14,59.05,2023
+SG-10132,2023-09-04,South,Office Supplies,Binders,Home Office,62.03,7,0.06,-1.4,2023
+SG-10332,2023-09-06,Central,Furniture,Bookcases,Consumer,180.07,3,0.14,3.77,2023
+SG-10335,2023-09-06,South,Technology,Copiers,Consumer,396.72,3,0.16,88.77,2023
+SG-10361,2023-09-06,Central,Technology,Accessories,Consumer,429.09,5,0.15,66.78,2023
+SG-11557,2023-09-08,East,Furniture,Chairs,Home Office,151.93,3,0.07,30.34,2023
+SG-10658,2023-09-08,East,Office Supplies,Labels,Consumer,79.29,7,0.13,22.6,2023
+SG-11359,2023-09-10,West,Furniture,Bookcases,Corporate,143.52,7,0.11,-1.19,2023
+SG-10172,2023-09-11,Central,Furniture,Chairs,Consumer,322.1,6,0.16,49.56,2023
+SG-11540,2023-09-12,Central,Furniture,Tables,Consumer,167.51,5,0.13,23.87,2023
+SG-11063,2023-09-15,South,Technology,Copiers,Home Office,279.46,4,0.08,68.41,2023
+SG-10087,2023-09-15,East,Furniture,Tables,Home Office,255.65,2,0.2,19.71,2023
+SG-11317,2023-09-15,South,Office Supplies,Paper,Corporate,95.88,7,0.12,6.53,2023
+SG-11062,2023-09-19,South,Furniture,Chairs,Consumer,160.25,2,0.01,-17.64,2023
+SG-11456,2023-09-21,West,Technology,Copiers,Consumer,281.42,4,0.09,47.6,2023
+SG-10762,2023-09-21,East,Furniture,Tables,Consumer,85.39,3,0.04,9.18,2023
+SG-10088,2023-09-21,South,Office Supplies,Storage,Consumer,145.2,6,0.23,21.09,2023
+SG-10592,2023-09-22,East,Furniture,Chairs,Consumer,201.64,5,0.08,29.26,2023
+SG-11117,2023-09-23,South,Technology,Machines,Consumer,416.06,7,0.15,43.31,2023
+SG-10066,2023-09-26,West,Office Supplies,Art,Corporate,293.02,6,0.05,66.58,2023
+SG-11264,2023-09-26,South,Technology,Accessories,Consumer,249.27,1,0.06,49.03,2023
+SG-11167,2023-09-29,Central,Office Supplies,Labels,Consumer,93.74,3,0.11,32.25,2023
+SG-11152,2023-10-01,South,Furniture,Tables,Consumer,165.04,3,0.28,-5.8,2023
+SG-11410,2023-10-02,West,Office Supplies,Paper,Home Office,129.56,6,0.25,28.75,2023
+SG-10459,2023-10-02,South,Office Supplies,Storage,Consumer,64.04,1,0.15,-0.1,2023
+SG-10412,2023-10-02,East,Office Supplies,Binders,Corporate,112.35,1,0.12,92.05,2023
+SG-11013,2023-10-03,Central,Furniture,Tables,Corporate,284.34,1,0.12,16.93,2023
+SG-11596,2023-10-04,South,Office Supplies,Paper,Consumer,107.84,4,0.11,44.03,2023
+SG-10192,2023-10-05,West,Furniture,Bookcases,Corporate,359.35,1,0.23,20.38,2023
+SG-10503,2023-10-06,South,Office Supplies,Labels,Home Office,63.27,7,0.16,-0.81,2023
+SG-11230,2023-10-07,South,Office Supplies,Paper,Corporate,347.54,5,0.12,47.9,2023
+SG-10736,2023-10-07,South,Office Supplies,Storage,Consumer,209.85,7,0.05,13.6,2023
+SG-10992,2023-10-07,South,Office Supplies,Labels,Consumer,163.22,3,0.12,-2.9,2023
+SG-10524,2023-10-08,East,Office Supplies,Art,Corporate,97.8,4,0.16,10.47,2023
+SG-10400,2023-10-10,West,Technology,Phones,Home Office,78.46,5,0.04,16.78,2023
+SG-11177,2023-10-11,Central,Furniture,Tables,Home Office,112.43,4,0.21,0.66,2023
+SG-10804,2023-10-13,West,Furniture,Furnishings,Corporate,181.97,3,0.24,23.09,2023
+SG-11160,2023-10-13,West,Furniture,Furnishings,Home Office,205.43,2,0.26,4.83,2023
+SG-10326,2023-10-14,West,Office Supplies,Binders,Home Office,138.94,6,0.22,47.41,2023
+SG-10674,2023-10-14,South,Office Supplies,Paper,Home Office,92.31,6,0.22,29.25,2023
+SG-10534,2023-10-14,West,Technology,Phones,Consumer,283.83,2,0.11,56.81,2023
+SG-10618,2023-10-14,Central,Office Supplies,Labels,Corporate,83.74,4,0.19,-24.15,2023
+SG-11156,2023-10-14,Central,Office Supplies,Labels,Home Office,55.45,1,0.11,-26.66,2023
+SG-11025,2023-10-15,West,Technology,Copiers,Consumer,295.14,1,0.24,26.61,2023
+SG-10609,2023-10-15,South,Furniture,Tables,Consumer,65.55,1,0.1,-6.3,2023
+SG-11270,2023-10-16,West,Office Supplies,Paper,Consumer,273.82,2,0.22,62.84,2023
+SG-11473,2023-10-17,Central,Furniture,Furnishings,Home Office,97.77,2,0.24,1.13,2023
+SG-11054,2023-10-17,Central,Technology,Accessories,Consumer,141.97,1,0.09,20.96,2023
+SG-11005,2023-10-17,Central,Office Supplies,Binders,Home Office,120.43,6,0.16,21.21,2023
+SG-10683,2023-10-18,West,Office Supplies,Labels,Home Office,80.98,3,0.16,7.14,2023
+SG-11192,2023-10-18,East,Furniture,Bookcases,Consumer,386.35,1,0.19,-20.74,2023
+SG-10630,2023-10-19,South,Office Supplies,Binders,Corporate,176.37,3,0.22,-0.92,2023
+SG-11494,2023-10-20,West,Office Supplies,Labels,Consumer,128.56,2,0.03,46.27,2023
+SG-10580,2023-10-21,Central,Technology,Phones,Consumer,474.57,3,0.04,64.24,2023
+SG-11459,2023-10-22,South,Technology,Accessories,Consumer,302.38,4,0.14,17.7,2023
+SG-11379,2023-10-22,Central,Office Supplies,Labels,Consumer,113.25,6,0.26,17.55,2023
+SG-11490,2023-10-22,West,Technology,Phones,Consumer,254.83,3,0.09,46.13,2023
+SG-10758,2023-10-23,East,Office Supplies,Art,Corporate,237.67,2,0.0,96.45,2023
+SG-11048,2023-10-24,West,Office Supplies,Binders,Home Office,113.1,6,0.13,21.71,2023
+SG-11463,2023-10-24,East,Office Supplies,Art,Consumer,309.9,1,0.07,13.72,2023
+SG-10603,2023-10-25,East,Technology,Machines,Home Office,230.42,5,0.14,31.58,2023
+SG-10817,2023-10-26,East,Furniture,Tables,Consumer,227.06,3,0.16,-1.48,2023
+SG-10666,2023-10-27,East,Office Supplies,Binders,Home Office,86.76,7,0.0,21.53,2023
+SG-10890,2023-10-29,Central,Office Supplies,Art,Consumer,120.07,6,0.2,0.66,2023
+SG-11265,2023-10-30,East,Technology,Machines,Consumer,128.6,1,0.1,27.59,2023
+SG-10236,2023-10-30,South,Office Supplies,Storage,Consumer,143.88,7,0.1,-5.19,2023
+SG-10767,2023-10-31,Central,Technology,Machines,Corporate,270.51,3,0.09,52.9,2023
+SG-10844,2023-11-01,South,Technology,Copiers,Consumer,158.05,1,0.22,43.67,2023
+SG-11134,2023-11-02,South,Office Supplies,Storage,Consumer,121.19,5,0.14,-2.56,2023
+SG-10442,2023-11-03,West,Technology,Accessories,Consumer,327.77,4,0.16,24.51,2023
+SG-11347,2023-11-03,Central,Furniture,Chairs,Consumer,306.91,7,0.08,22.32,2023
+SG-11172,2023-11-03,East,Furniture,Bookcases,Home Office,148.65,6,0.09,-5.14,2023
+SG-11097,2023-11-03,Central,Furniture,Tables,Home Office,83.53,3,0.29,35.67,2023
+SG-10571,2023-11-04,South,Furniture,Chairs,Home Office,268.79,7,0.08,67.67,2023
+SG-10431,2023-11-04,West,Office Supplies,Art,Home Office,50.92,6,0.08,-28.59,2023
+SG-10572,2023-11-05,South,Office Supplies,Storage,Corporate,251.41,2,0.09,14.51,2023
+SG-10768,2023-11-06,Central,Technology,Copiers,Consumer,343.15,4,0.17,39.01,2023
+SG-11505,2023-11-06,West,Office Supplies,Storage,Consumer,136.6,2,0.18,47.71,2023
+SG-11227,2023-11-06,Central,Office Supplies,Art,Consumer,114.77,4,0.21,8.06,2023
+SG-10018,2023-11-07,East,Furniture,Bookcases,Corporate,181.14,3,0.26,39.15,2023
+SG-11069,2023-11-09,West,Technology,Copiers,Corporate,361.85,1,0.15,37.39,2023
+SG-11250,2023-11-09,Central,Office Supplies,Art,Home Office,131.47,4,0.23,-6.5,2023
+SG-10447,2023-11-09,East,Furniture,Bookcases,Consumer,314.46,7,0.12,40.94,2023
+SG-10653,2023-11-09,East,Office Supplies,Labels,Home Office,138.36,2,0.14,61.15,2023
+SG-10465,2023-11-10,East,Technology,Copiers,Consumer,210.42,6,0.12,34.95,2023
+SG-10062,2023-11-11,West,Office Supplies,Binders,Corporate,244.32,2,0.0,38.96,2023
+SG-11111,2023-11-11,East,Furniture,Furnishings,Corporate,228.93,6,0.0,-12.17,2023
+SG-10440,2023-11-14,West,Furniture,Chairs,Consumer,120.23,4,0.22,17.56,2023
+SG-11223,2023-11-16,South,Furniture,Chairs,Home Office,116.32,3,0.25,0.11,2023
+SG-11590,2023-11-17,Central,Furniture,Tables,Corporate,127.03,2,0.09,14.88,2023
+SG-10752,2023-11-17,West,Technology,Copiers,Corporate,324.03,5,0.01,71.78,2023
+SG-11383,2023-11-18,Central,Office Supplies,Storage,Consumer,79.04,5,0.19,46.68,2023
+SG-11311,2023-11-18,West,Technology,Machines,Consumer,367.36,5,0.16,28.04,2023
+SG-11145,2023-11-18,East,Technology,Phones,Consumer,36.32,7,0.03,5.2,2023
+SG-11169,2023-11-20,East,Technology,Phones,Home Office,108.52,1,0.02,33.62,2023
+SG-10466,2023-11-21,South,Technology,Copiers,Corporate,201.22,3,0.17,10.31,2023
+SG-11395,2023-11-21,South,Furniture,Furnishings,Consumer,139.04,1,0.11,10.88,2023
+SG-11407,2023-11-24,East,Office Supplies,Labels,Consumer,188.37,2,0.04,46.05,2023
+SG-11166,2023-11-24,West,Office Supplies,Storage,Consumer,108.42,4,0.04,-18.44,2023
+SG-11133,2023-11-25,Central,Technology,Machines,Consumer,332.85,4,0.17,39.13,2023
+SG-10208,2023-11-27,Central,Furniture,Chairs,Corporate,134.56,6,0.0,13.94,2023
+SG-10032,2023-11-28,East,Office Supplies,Paper,Corporate,270.45,1,0.09,52.53,2023
+SG-10456,2023-11-28,Central,Furniture,Chairs,Home Office,205.0,7,0.07,23.31,2023
+SG-10983,2023-11-30,West,Furniture,Tables,Consumer,139.04,4,0.1,-8.75,2023
+SG-11245,2023-12-03,West,Office Supplies,Storage,Consumer,180.06,3,0.0,-5.09,2023
+SG-10757,2023-12-03,South,Office Supplies,Paper,Corporate,112.31,2,0.09,29.43,2023
+SG-10522,2023-12-03,East,Furniture,Tables,Consumer,170.42,6,0.21,29.09,2023
+SG-10166,2023-12-05,West,Furniture,Furnishings,Consumer,472.26,4,0.14,62.31,2023
+SG-10598,2023-12-05,South,Technology,Phones,Consumer,314.82,7,0.15,48.22,2023
+SG-11533,2023-12-05,South,Furniture,Bookcases,Consumer,191.95,2,0.22,20.55,2023
+SG-10876,2023-12-05,East,Office Supplies,Paper,Consumer,112.48,1,0.09,45.04,2023
+SG-10248,2023-12-06,West,Office Supplies,Labels,Consumer,135.97,2,0.1,32.4,2023
+SG-10515,2023-12-08,Central,Office Supplies,Storage,Consumer,180.81,3,0.23,33.19,2023
+SG-10384,2023-12-11,South,Office Supplies,Storage,Home Office,96.15,2,0.24,32.25,2023
+SG-10745,2023-12-12,East,Furniture,Tables,Home Office,215.13,1,0.1,-0.97,2023
+SG-10024,2023-12-13,West,Office Supplies,Art,Home Office,126.57,3,0.07,-0.1,2023
+SG-11083,2023-12-14,East,Office Supplies,Storage,Consumer,105.41,2,0.27,28.03,2023
+SG-10428,2023-12-15,South,Office Supplies,Art,Consumer,165.62,4,0.07,31.26,2023
+SG-11312,2023-12-16,South,Technology,Accessories,Consumer,98.14,5,0.0,10.44,2023
+SG-10643,2023-12-17,West,Furniture,Furnishings,Consumer,332.9,7,0.13,54.33,2023
+SG-10569,2023-12-18,South,Technology,Accessories,Consumer,130.32,2,0.11,25.62,2023
+SG-11531,2023-12-19,West,Office Supplies,Art,Corporate,292.17,7,0.09,51.09,2023
+SG-11201,2023-12-20,East,Office Supplies,Paper,Corporate,180.71,1,0.11,18.7,2023
+SG-11510,2023-12-20,Central,Furniture,Tables,Consumer,180.87,3,0.25,39.27,2023
+SG-10858,2023-12-21,West,Technology,Copiers,Corporate,955.81,3,0.0,238.45,2023
+SG-11299,2023-12-22,Central,Technology,Machines,Home Office,237.34,6,0.18,3.95,2023
+SG-10795,2023-12-22,Central,Technology,Accessories,Consumer,175.85,7,0.19,57.89,2023
+SG-10035,2023-12-23,West,Furniture,Chairs,Home Office,196.04,7,0.07,2.43,2023
+SG-10346,2023-12-24,Central,Technology,Accessories,Consumer,252.81,6,0.0,42.45,2023
+SG-11418,2023-12-25,West,Office Supplies,Paper,Corporate,76.21,7,0.06,34.57,2023
+SG-10403,2023-12-26,West,Furniture,Furnishings,Corporate,364.57,6,0.23,4.39,2023
+SG-10951,2023-12-28,West,Technology,Copiers,Consumer,331.55,6,0.17,62.54,2023
+SG-10312,2023-12-30,Central,Office Supplies,Binders,Corporate,140.21,1,0.2,0.01,2023
+SG-10258,2023-12-30,South,Furniture,Chairs,Consumer,97.88,7,0.06,28.33,2023
+SG-11151,2023-12-31,Central,Office Supplies,Storage,Consumer,162.12,3,0.1,35.95,2023
+SG-10038,2024-01-01,West,Office Supplies,Art,Corporate,229.1,1,0.03,102.55,2024
+SG-10766,2024-01-02,Central,Office Supplies,Binders,Home Office,182.24,4,0.23,38.28,2024
+SG-11185,2024-01-05,Central,Furniture,Furnishings,Home Office,249.51,7,0.11,43.42,2024
+SG-10695,2024-01-05,Central,Office Supplies,Paper,Consumer,59.5,5,0.11,-7.8,2024
+SG-10872,2024-01-06,West,Office Supplies,Paper,Corporate,158.9,2,0.17,-2.89,2024
+SG-10425,2024-01-06,East,Office Supplies,Storage,Home Office,156.73,1,0.13,37.2,2024
+SG-10002,2024-01-08,East,Technology,Machines,Corporate,216.18,6,0.13,45.86,2024
+SG-11346,2024-01-10,East,Technology,Accessories,Consumer,305.85,5,0.21,75.23,2024
+SG-11493,2024-01-10,East,Technology,Machines,Consumer,424.32,2,0.1,100.95,2024
+SG-10631,2024-01-13,West,Office Supplies,Paper,Consumer,434.98,5,0.29,41.13,2024
+SG-10617,2024-01-14,South,Office Supplies,Labels,Consumer,166.43,5,0.18,-2.96,2024
+SG-11114,2024-01-18,Central,Office Supplies,Art,Corporate,221.76,4,0.16,48.19,2024
+SG-11197,2024-01-19,Central,Office Supplies,Storage,Home Office,174.15,3,0.19,11.13,2024
+SG-10816,2024-01-19,Central,Office Supplies,Binders,Consumer,102.11,3,0.08,31.68,2024
+SG-10176,2024-01-20,East,Technology,Phones,Home Office,351.72,2,0.15,88.68,2024
+SG-10446,2024-01-21,West,Technology,Machines,Consumer,559.92,1,0.16,76.86,2024
+SG-10789,2024-01-22,West,Furniture,Furnishings,Consumer,190.69,3,0.13,15.0,2024
+SG-11039,2024-01-26,East,Office Supplies,Paper,Consumer,132.61,7,0.23,-3.62,2024
+SG-10802,2024-01-26,East,Furniture,Bookcases,Corporate,595.27,2,0.06,58.51,2024
+SG-11405,2024-01-26,Central,Office Supplies,Binders,Corporate,118.6,7,0.14,11.68,2024
+SG-10031,2024-01-26,West,Office Supplies,Binders,Corporate,157.41,3,0.14,29.48,2024
+SG-10313,2024-01-29,East,Technology,Machines,Corporate,270.76,3,0.2,30.59,2024
+SG-11113,2024-01-29,South,Furniture,Furnishings,Corporate,128.81,6,0.02,37.79,2024
+SG-10488,2024-01-29,East,Technology,Phones,Consumer,235.93,2,0.23,0.88,2024
+SG-10354,2024-01-30,West,Office Supplies,Paper,Corporate,159.73,1,0.3,24.28,2024
+SG-11365,2024-01-31,East,Furniture,Bookcases,Consumer,255.85,4,0.1,-3.87,2024
+SG-11488,2024-02-01,Central,Office Supplies,Paper,Corporate,314.8,4,0.2,45.19,2024
+SG-10697,2024-02-02,East,Technology,Copiers,Consumer,293.54,7,0.19,59.48,2024
+SG-10920,2024-02-02,East,Furniture,Tables,Corporate,191.68,7,0.16,-14.06,2024
+SG-11255,2024-02-02,Central,Office Supplies,Paper,Corporate,305.52,2,0.06,54.89,2024
+SG-10842,2024-02-02,West,Furniture,Bookcases,Home Office,86.23,1,0.14,6.81,2024
+SG-10513,2024-02-02,East,Technology,Accessories,Consumer,234.57,1,0.02,34.74,2024
+SG-11570,2024-02-03,South,Office Supplies,Binders,Home Office,113.09,7,0.04,32.57,2024
+SG-10358,2024-02-04,East,Office Supplies,Binders,Home Office,270.69,3,0.0,57.66,2024
+SG-10493,2024-02-06,Central,Office Supplies,Art,Corporate,157.93,4,0.21,26.4,2024
+SG-11438,2024-02-07,Central,Office Supplies,Labels,Corporate,147.5,4,0.21,8.75,2024
+SG-10323,2024-02-08,South,Office Supplies,Art,Consumer,270.89,6,0.0,18.13,2024
+SG-10014,2024-02-09,South,Office Supplies,Labels,Consumer,58.49,2,0.08,-10.02,2024
+SG-10640,2024-02-09,South,Office Supplies,Paper,Consumer,102.36,6,0.07,35.29,2024
+SG-11489,2024-02-09,Central,Furniture,Chairs,Consumer,152.36,7,0.25,-13.35,2024
+SG-11357,2024-02-11,Central,Furniture,Tables,Home Office,173.39,7,0.08,-13.98,2024
+SG-10646,2024-02-12,Central,Office Supplies,Binders,Home Office,111.32,1,0.19,57.43,2024
+SG-11216,2024-02-15,South,Office Supplies,Storage,Corporate,292.65,5,0.18,51.19,2024
+SG-11222,2024-02-18,South,Office Supplies,Storage,Consumer,159.41,5,0.1,-1.11,2024
+SG-10009,2024-02-18,West,Office Supplies,Labels,Corporate,162.8,3,0.1,2.32,2024
+SG-10205,2024-02-18,East,Furniture,Tables,Consumer,170.55,2,0.06,26.27,2024
+SG-11381,2024-02-20,Central,Office Supplies,Art,Consumer,80.65,4,0.02,31.6,2024
+SG-11330,2024-02-20,South,Office Supplies,Binders,Consumer,243.53,4,0.14,46.93,2024
+SG-11491,2024-02-22,South,Furniture,Tables,Consumer,199.71,1,0.2,25.06,2024
+SG-11203,2024-02-22,Central,Office Supplies,Labels,Corporate,131.16,5,0.09,12.72,2024
+SG-11297,2024-02-25,Central,Furniture,Chairs,Consumer,256.3,7,0.12,21.86,2024
+SG-10949,2024-02-25,Central,Technology,Phones,Consumer,375.32,7,0.04,80.76,2024
+SG-10682,2024-02-26,East,Furniture,Furnishings,Corporate,307.43,7,0.22,-12.1,2024
+SG-10311,2024-02-27,South,Technology,Copiers,Consumer,229.2,4,0.12,58.5,2024
+SG-10390,2024-02-28,East,Office Supplies,Art,Consumer,186.95,3,0.0,66.24,2024
+SG-11078,2024-03-01,Central,Office Supplies,Labels,Consumer,122.21,6,0.24,32.62,2024
+SG-10507,2024-03-03,Central,Technology,Phones,Corporate,349.94,3,0.12,38.46,2024
+SG-10125,2024-03-05,South,Furniture,Bookcases,Consumer,131.29,2,0.02,20.68,2024
+SG-10744,2024-03-05,Central,Office Supplies,Paper,Consumer,189.79,7,0.12,57.82,2024
+SG-10650,2024-03-06,Central,Office Supplies,Labels,Home Office,97.48,2,0.14,1.13,2024
+SG-10929,2024-03-06,West,Office Supplies,Labels,Consumer,179.69,1,0.14,62.28,2024
+SG-10779,2024-03-07,East,Office Supplies,Storage,Corporate,324.42,7,0.01,66.0,2024
+SG-11543,2024-03-09,South,Technology,Machines,Consumer,138.64,4,0.01,28.45,2024
+SG-10717,2024-03-10,Central,Furniture,Furnishings,Consumer,116.71,4,0.0,12.95,2024
+SG-10437,2024-03-10,West,Furniture,Chairs,Consumer,184.5,4,0.14,-6.9,2024
+SG-10392,2024-03-12,East,Office Supplies,Storage,Home Office,155.47,4,0.16,25.24,2024
+SG-10099,2024-03-13,West,Furniture,Furnishings,Consumer,99.49,1,0.2,4.24,2024
+SG-11205,2024-03-14,West,Office Supplies,Paper,Corporate,296.95,5,0.17,33.47,2024
+SG-10774,2024-03-14,East,Furniture,Furnishings,Consumer,158.4,7,0.3,-15.99,2024
+SG-10479,2024-03-17,West,Office Supplies,Binders,Consumer,89.31,6,0.22,30.13,2024
+SG-10539,2024-03-17,Central,Furniture,Tables,Home Office,105.42,4,0.3,-7.34,2024
+SG-10970,2024-03-21,West,Furniture,Tables,Home Office,349.65,5,0.08,41.36,2024
+SG-11060,2024-03-21,West,Furniture,Chairs,Consumer,323.6,1,0.05,34.91,2024
+SG-10525,2024-03-22,East,Furniture,Tables,Corporate,577.29,5,0.07,64.25,2024
+SG-10238,2024-03-23,South,Furniture,Chairs,Corporate,160.09,1,0.01,9.07,2024
+SG-11021,2024-03-23,West,Office Supplies,Art,Consumer,332.39,3,0.14,31.58,2024
+SG-11508,2024-03-24,South,Technology,Machines,Consumer,417.22,7,0.03,62.78,2024
+SG-11093,2024-03-24,East,Furniture,Tables,Corporate,202.64,1,0.06,52.89,2024
+SG-10733,2024-03-25,East,Office Supplies,Binders,Home Office,156.29,1,0.13,24.81,2024
+SG-11004,2024-03-25,East,Technology,Machines,Consumer,386.11,2,0.18,30.42,2024
+SG-11470,2024-03-27,South,Office Supplies,Labels,Corporate,87.65,2,0.14,-15.74,2024
+SG-10633,2024-03-28,Central,Office Supplies,Art,Corporate,204.59,7,0.12,65.64,2024
+SG-11238,2024-03-31,South,Technology,Machines,Consumer,295.13,3,0.08,37.66,2024
+SG-10395,2024-03-31,Central,Technology,Accessories,Consumer,309.58,3,0.18,64.89,2024
+SG-10829,2024-04-07,East,Furniture,Tables,Corporate,622.18,5,0.06,39.06,2024
+SG-11204,2024-04-07,Central,Office Supplies,Art,Consumer,132.89,1,0.03,33.43,2024
+SG-10707,2024-04-09,South,Furniture,Bookcases,Home Office,184.92,1,0.06,23.13,2024
+SG-11522,2024-04-10,West,Furniture,Bookcases,Consumer,483.47,4,0.09,38.71,2024
+SG-11239,2024-04-11,Central,Furniture,Tables,Consumer,98.13,1,0.19,26.5,2024
+SG-11044,2024-04-11,Central,Office Supplies,Binders,Home Office,264.75,7,0.09,44.26,2024
+SG-11469,2024-04-15,East,Office Supplies,Storage,Corporate,264.8,2,0.12,32.07,2024
+SG-11139,2024-04-17,West,Office Supplies,Storage,Corporate,457.55,4,0.0,107.71,2024
+SG-11208,2024-04-19,South,Office Supplies,Binders,Corporate,110.07,5,0.0,29.96,2024
+SG-10607,2024-04-19,West,Furniture,Chairs,Consumer,257.88,3,0.15,20.32,2024
+SG-11423,2024-04-19,Central,Furniture,Chairs,Corporate,246.17,5,0.05,8.3,2024
+SG-10791,2024-04-19,Central,Office Supplies,Art,Consumer,176.95,2,0.17,14.15,2024
+SG-10907,2024-04-19,South,Furniture,Bookcases,Consumer,116.06,6,0.06,22.85,2024
+SG-11220,2024-04-20,Central,Office Supplies,Storage,Consumer,151.23,6,0.16,19.28,2024
+SG-10538,2024-04-20,Central,Technology,Machines,Consumer,185.3,2,0.19,34.71,2024
+SG-11425,2024-04-20,West,Office Supplies,Storage,Consumer,173.86,3,0.15,7.28,2024
+SG-11388,2024-04-21,West,Office Supplies,Binders,Corporate,241.74,7,0.0,22.31,2024
+SG-10081,2024-04-23,South,Technology,Phones,Consumer,377.55,6,0.0,56.28,2024
+SG-10803,2024-04-23,West,Technology,Accessories,Consumer,336.67,7,0.11,37.37,2024
+SG-10201,2024-04-23,South,Office Supplies,Binders,Consumer,172.35,2,0.21,4.7,2024
+SG-10318,2024-04-23,Central,Office Supplies,Art,Consumer,189.29,3,0.2,-12.79,2024
+SG-10669,2024-04-23,East,Technology,Copiers,Home Office,207.02,1,0.01,64.98,2024
+SG-11137,2024-04-23,Central,Furniture,Furnishings,Corporate,252.98,4,0.14,-0.69,2024
+SG-11022,2024-04-23,West,Technology,Phones,Corporate,1028.27,7,0.04,191.12,2024
+SG-11409,2024-04-25,Central,Technology,Phones,Home Office,406.92,7,0.13,42.32,2024
+SG-10310,2024-04-28,West,Furniture,Chairs,Corporate,225.18,3,0.2,30.43,2024
+SG-11074,2024-04-30,Central,Office Supplies,Paper,Corporate,223.47,6,0.03,64.96,2024
+SG-11458,2024-05-01,West,Office Supplies,Binders,Consumer,346.25,5,0.0,58.62,2024
+SG-10568,2024-05-02,Central,Technology,Machines,Consumer,189.29,4,0.18,4.68,2024
+SG-10203,2024-05-02,West,Office Supplies,Binders,Corporate,166.71,5,0.17,41.0,2024
+SG-10827,2024-05-03,West,Furniture,Tables,Consumer,198.32,6,0.08,3.32,2024
+SG-10797,2024-05-04,West,Technology,Copiers,Consumer,743.82,4,0.05,175.53,2024
+SG-10659,2024-05-06,West,Technology,Accessories,Consumer,963.39,6,0.04,182.19,2024
+SG-11236,2024-05-07,East,Office Supplies,Binders,Corporate,194.88,4,0.12,35.47,2024
+SG-10175,2024-05-07,South,Furniture,Bookcases,Consumer,179.05,5,0.15,-16.53,2024
+SG-10963,2024-05-07,West,Furniture,Chairs,Home Office,93.46,1,0.23,-24.59,2024
+SG-11482,2024-05-08,South,Furniture,Tables,Consumer,464.56,7,0.09,46.53,2024
+SG-10687,2024-05-09,East,Technology,Machines,Consumer,325.34,1,0.09,80.89,2024
+SG-11084,2024-05-09,Central,Office Supplies,Paper,Corporate,103.82,2,0.11,13.31,2024
+SG-11135,2024-05-11,South,Technology,Phones,Home Office,387.67,4,0.1,33.7,2024
+SG-10086,2024-05-13,West,Office Supplies,Labels,Consumer,387.42,5,0.07,42.16,2024
+SG-10749,2024-05-13,South,Technology,Phones,Home Office,183.94,5,0.11,63.59,2024
+SG-11475,2024-05-14,South,Office Supplies,Storage,Consumer,142.38,6,0.33,44.54,2024
+SG-11532,2024-05-16,West,Office Supplies,Storage,Corporate,245.44,6,0.13,44.99,2024
+SG-11429,2024-05-17,East,Technology,Phones,Consumer,683.72,1,0.0,149.12,2024
+SG-11163,2024-05-17,West,Technology,Phones,Consumer,308.23,4,0.11,82.98,2024
+SG-10800,2024-05-18,East,Office Supplies,Labels,Home Office,137.59,1,0.15,32.9,2024
+SG-10294,2024-05-19,West,Furniture,Tables,Corporate,390.43,6,0.38,12.05,2024
+SG-11354,2024-05-20,West,Furniture,Furnishings,Consumer,246.44,5,0.2,35.5,2024
+SG-10715,2024-05-21,East,Technology,Phones,Consumer,374.56,4,0.1,52.86,2024
+SG-11231,2024-05-26,Central,Technology,Accessories,Corporate,334.91,7,0.18,72.91,2024
+SG-10268,2024-05-26,Central,Office Supplies,Binders,Consumer,123.29,7,0.0,23.6,2024
+SG-10540,2024-05-28,South,Office Supplies,Storage,Consumer,158.56,7,0.01,31.42,2024
+SG-10853,2024-05-28,Central,Furniture,Furnishings,Corporate,148.59,5,0.24,-14.45,2024
+SG-10283,2024-05-30,Central,Technology,Phones,Consumer,296.87,1,0.11,55.01,2024
+SG-11511,2024-05-30,Central,Office Supplies,Binders,Home Office,243.3,7,0.16,49.2,2024
+SG-10490,2024-05-31,West,Office Supplies,Labels,Consumer,223.76,3,0.22,23.42,2024
+SG-11094,2024-05-31,West,Furniture,Bookcases,Consumer,519.14,1,0.19,39.4,2024
+SG-10784,2024-05-31,Central,Furniture,Furnishings,Home Office,291.29,3,0.13,-5.57,2024
+SG-10740,2024-06-01,South,Technology,Machines,Consumer,190.02,6,0.05,17.23,2024
+SG-11307,2024-06-01,West,Office Supplies,Art,Consumer,110.98,3,0.16,16.25,2024
+SG-11565,2024-06-02,West,Technology,Machines,Consumer,275.9,4,0.16,36.09,2024
+SG-11164,2024-06-03,West,Technology,Accessories,Home Office,300.14,6,0.15,39.7,2024
+SG-10956,2024-06-04,East,Office Supplies,Storage,Consumer,315.39,5,0.08,35.43,2024
+SG-10266,2024-06-05,South,Furniture,Tables,Consumer,247.73,4,0.28,-52.06,2024
+SG-11053,2024-06-06,South,Office Supplies,Labels,Consumer,656.49,2,0.17,85.38,2024
+SG-10090,2024-06-07,East,Office Supplies,Labels,Corporate,338.43,4,0.14,35.56,2024
+SG-11058,2024-06-09,South,Office Supplies,Binders,Corporate,140.5,4,0.18,40.55,2024
+SG-11368,2024-06-09,South,Technology,Copiers,Consumer,161.06,5,0.0,56.18,2024
+SG-10518,2024-06-10,South,Furniture,Furnishings,Consumer,152.71,7,0.11,35.82,2024
+SG-11355,2024-06-10,East,Office Supplies,Labels,Home Office,179.91,3,0.05,49.35,2024
+SG-10416,2024-06-10,West,Office Supplies,Art,Home Office,319.36,3,0.09,66.86,2024
+SG-10896,2024-06-13,Central,Office Supplies,Paper,Consumer,127.74,3,0.11,2.32,2024
+SG-11450,2024-06-15,Central,Technology,Copiers,Consumer,223.59,5,0.09,18.92,2024
+SG-10149,2024-06-16,South,Office Supplies,Storage,Consumer,40.64,5,0.13,46.97,2024
+SG-10820,2024-06-16,West,Furniture,Bookcases,Consumer,126.63,2,0.09,26.38,2024
+SG-10932,2024-06-19,South,Office Supplies,Storage,Home Office,190.59,6,0.12,34.77,2024
+SG-10302,2024-06-19,South,Technology,Machines,Consumer,122.01,5,0.07,37.9,2024
+SG-10011,2024-06-21,Central,Office Supplies,Labels,Consumer,104.21,1,0.11,27.88,2024
+SG-10709,2024-06-21,South,Office Supplies,Art,Home Office,164.57,1,0.15,18.86,2024
+SG-10748,2024-06-21,South,Furniture,Bookcases,Consumer,284.74,5,0.19,-5.6,2024
+SG-10349,2024-06-22,Central,Technology,Phones,Consumer,193.55,1,0.28,5.46,2024
+SG-11148,2024-06-23,West,Furniture,Bookcases,Consumer,163.01,3,0.23,6.95,2024
+SG-11140,2024-06-26,East,Technology,Phones,Corporate,417.14,7,0.09,63.17,2024
+SG-10276,2024-06-26,South,Technology,Copiers,Corporate,490.9,4,0.08,63.68,2024
+SG-11371,2024-06-26,East,Furniture,Tables,Consumer,294.92,7,0.08,-7.05,2024
+SG-10884,2024-06-28,West,Office Supplies,Storage,Consumer,146.79,2,0.03,24.54,2024
+SG-11043,2024-06-30,Central,Office Supplies,Binders,Home Office,295.7,1,0.18,49.97,2024
+SG-11564,2024-06-30,West,Furniture,Furnishings,Consumer,202.28,7,0.1,20.76,2024
+SG-11099,2024-07-02,Central,Technology,Machines,Consumer,187.02,6,0.18,17.27,2024
+SG-10452,2024-07-02,Central,Technology,Copiers,Home Office,277.48,6,0.18,77.66,2024
+SG-10558,2024-07-03,East,Technology,Accessories,Corporate,402.79,3,0.08,71.32,2024
+SG-10342,2024-07-03,Central,Technology,Copiers,Corporate,300.68,3,0.19,33.26,2024
+SG-10499,2024-07-03,Central,Furniture,Bookcases,Corporate,353.07,3,0.15,34.63,2024
+SG-10673,2024-07-04,West,Technology,Accessories,Home Office,183.47,6,0.1,25.93,2024
+SG-10926,2024-07-04,Central,Technology,Copiers,Corporate,265.24,3,0.12,21.49,2024
+SG-11217,2024-07-07,East,Office Supplies,Labels,Corporate,200.79,4,0.24,24.1,2024
+SG-10473,2024-07-08,West,Office Supplies,Art,Consumer,159.99,2,0.1,4.12,2024
+SG-10516,2024-07-09,South,Technology,Machines,Consumer,129.21,6,0.21,36.34,2024
+SG-10314,2024-07-10,South,Office Supplies,Paper,Consumer,55.63,5,0.15,5.57,2024
+SG-11552,2024-07-10,Central,Technology,Accessories,Consumer,344.37,5,0.09,65.76,2024
+SG-10315,2024-07-11,West,Office Supplies,Labels,Corporate,96.27,5,0.11,30.89,2024
+SG-10414,2024-07-12,West,Office Supplies,Art,Consumer,319.79,6,0.13,67.43,2024
+SG-11498,2024-07-12,West,Office Supplies,Labels,Home Office,127.56,7,0.16,24.06,2024
+SG-10096,2024-07-14,West,Technology,Copiers,Home Office,131.33,6,0.13,2.14,2024
+SG-10039,2024-07-14,West,Technology,Phones,Corporate,636.64,4,0.0,164.16,2024
+SG-11304,2024-07-14,Central,Technology,Accessories,Corporate,392.34,7,0.1,84.84,2024
+SG-11367,2024-07-15,West,Technology,Machines,Corporate,336.92,6,0.13,106.46,2024
+SG-11194,2024-07-15,South,Office Supplies,Labels,Consumer,74.0,5,0.1,0.91,2024
+SG-10207,2024-07-15,Central,Office Supplies,Art,Corporate,133.75,6,0.05,63.14,2024
+SG-11486,2024-07-16,East,Furniture,Tables,Consumer,378.63,1,0.16,11.58,2024
+SG-10565,2024-07-16,West,Furniture,Furnishings,Consumer,461.35,3,0.22,40.08,2024
+SG-10889,2024-07-16,East,Furniture,Tables,Consumer,362.59,5,0.11,17.35,2024
+SG-11124,2024-07-17,West,Office Supplies,Labels,Consumer,308.51,6,0.11,33.13,2024
+SG-10170,2024-07-18,East,Office Supplies,Paper,Consumer,110.72,3,0.15,13.07,2024
+SG-11121,2024-07-19,Central,Office Supplies,Labels,Home Office,214.54,5,0.13,3.19,2024
+SG-10237,2024-07-20,Central,Office Supplies,Binders,Consumer,117.96,3,0.0,25.32,2024
+SG-10364,2024-07-20,East,Office Supplies,Labels,Corporate,262.53,2,0.21,43.47,2024
+SG-11336,2024-07-22,Central,Office Supplies,Storage,Corporate,128.55,6,0.05,32.0,2024
+SG-10647,2024-07-22,West,Office Supplies,Art,Consumer,325.71,4,0.22,59.65,2024
+SG-10710,2024-07-23,South,Technology,Phones,Consumer,326.41,7,0.29,24.01,2024
+SG-10878,2024-07-23,Central,Technology,Copiers,Consumer,318.29,3,0.16,47.81,2024
+SG-10787,2024-07-23,West,Office Supplies,Art,Consumer,266.81,1,0.12,23.67,2024
+SG-10450,2024-07-25,East,Office Supplies,Paper,Home Office,108.32,4,0.14,-13.04,2024
+SG-10347,2024-07-26,Central,Technology,Machines,Home Office,131.64,3,0.05,36.99,2024
+SG-11321,2024-07-27,East,Office Supplies,Art,Consumer,106.74,3,0.13,14.62,2024
+SG-10492,2024-07-27,East,Office Supplies,Storage,Consumer,345.02,3,0.15,63.3,2024
+SG-11364,2024-07-27,East,Office Supplies,Storage,Home Office,112.95,4,0.11,34.57,2024
+SG-10330,2024-07-27,East,Technology,Copiers,Consumer,155.81,1,0.13,41.42,2024
+SG-11200,2024-07-27,East,Technology,Machines,Home Office,224.54,2,0.03,49.15,2024
+SG-11534,2024-07-28,East,Furniture,Chairs,Consumer,310.79,1,0.18,39.3,2024
+SG-11398,2024-07-30,East,Furniture,Furnishings,Corporate,154.88,1,0.08,24.37,2024
+SG-10771,2024-07-31,West,Technology,Phones,Consumer,201.1,3,0.12,12.37,2024
+SG-11341,2024-08-01,East,Office Supplies,Storage,Corporate,513.76,7,0.09,125.72,2024
+SG-11360,2024-08-02,East,Furniture,Chairs,Corporate,656.95,7,0.23,33.92,2024
+SG-10101,2024-08-02,West,Furniture,Tables,Consumer,325.05,4,0.09,13.59,2024
+SG-10487,2024-08-04,East,Technology,Copiers,Consumer,249.49,2,0.0,11.21,2024
+SG-10747,2024-08-07,Central,Office Supplies,Storage,Corporate,213.3,7,0.06,20.3,2024
+SG-10950,2024-08-10,East,Office Supplies,Storage,Consumer,149.82,4,0.23,-36.75,2024
+SG-10053,2024-08-11,East,Technology,Copiers,Corporate,588.46,4,0.24,82.28,2024
+SG-10025,2024-08-11,West,Furniture,Tables,Consumer,168.9,7,0.13,18.23,2024
+SG-10281,2024-08-11,East,Furniture,Bookcases,Home Office,154.85,3,0.18,39.61,2024
+SG-11575,2024-08-11,West,Furniture,Bookcases,Consumer,157.11,3,0.19,19.07,2024
+SG-10083,2024-08-12,Central,Office Supplies,Paper,Consumer,129.77,6,0.14,45.17,2024
+SG-10229,2024-08-12,West,Furniture,Bookcases,Consumer,211.56,1,0.0,12.52,2024
+SG-10967,2024-08-12,South,Technology,Copiers,Corporate,93.7,4,0.08,37.32,2024
+SG-10976,2024-08-12,Central,Furniture,Chairs,Consumer,103.53,6,0.15,-10.78,2024
+SG-10261,2024-08-13,West,Office Supplies,Storage,Consumer,151.33,6,0.1,52.5,2024
+SG-10954,2024-08-14,Central,Technology,Phones,Consumer,437.0,2,0.23,67.63,2024
+SG-10608,2024-08-14,East,Furniture,Chairs,Consumer,250.12,7,0.1,8.41,2024
+SG-10350,2024-08-15,South,Technology,Machines,Consumer,497.38,2,0.12,78.26,2024
+SG-11173,2024-08-16,East,Technology,Phones,Corporate,143.45,7,0.09,64.36,2024
+SG-11485,2024-08-16,West,Furniture,Bookcases,Consumer,240.84,3,0.16,-4.75,2024
+SG-10903,2024-08-16,East,Furniture,Chairs,Consumer,398.35,6,0.22,1.24,2024
+SG-11254,2024-08-16,South,Furniture,Chairs,Consumer,725.68,1,0.33,-2.0,2024
+SG-10193,2024-08-17,Central,Office Supplies,Paper,Corporate,284.73,5,0.13,26.04,2024
+SG-10746,2024-08-17,East,Office Supplies,Storage,Consumer,123.25,3,0.0,55.26,2024
+SG-10968,2024-08-18,West,Office Supplies,Binders,Home Office,465.25,6,0.1,77.12,2024
+SG-11153,2024-08-18,East,Office Supplies,Binders,Corporate,136.43,6,0.18,27.4,2024
+SG-10259,2024-08-19,West,Furniture,Bookcases,Home Office,114.54,2,0.22,25.12,2024
+SG-10639,2024-08-20,East,Furniture,Bookcases,Consumer,147.99,1,0.02,14.35,2024
+SG-10676,2024-08-21,South,Office Supplies,Art,Corporate,76.63,7,0.17,3.64,2024
+SG-10379,2024-08-21,South,Technology,Accessories,Consumer,356.76,5,0.1,72.27,2024
+SG-11559,2024-08-21,East,Furniture,Bookcases,Consumer,232.56,7,0.08,21.87,2024
+SG-11515,2024-08-21,Central,Technology,Machines,Consumer,181.65,2,0.07,30.88,2024
+SG-11107,2024-08-21,East,Office Supplies,Labels,Home Office,114.67,3,0.16,8.1,2024
+SG-10316,2024-08-22,Central,Furniture,Furnishings,Corporate,190.96,3,0.01,15.4,2024
+SG-10914,2024-08-25,East,Furniture,Bookcases,Consumer,129.89,2,0.13,-15.64,2024
+SG-11413,2024-08-25,South,Furniture,Chairs,Consumer,66.1,5,0.0,15.41,2024
+SG-11032,2024-08-25,Central,Furniture,Chairs,Home Office,99.7,3,0.12,26.83,2024
+SG-11572,2024-08-26,West,Furniture,Bookcases,Consumer,358.47,7,0.19,-9.16,2024
+SG-11455,2024-08-27,West,Office Supplies,Binders,Consumer,198.34,2,0.23,33.9,2024
+SG-10328,2024-08-28,East,Technology,Phones,Consumer,212.04,6,0.14,9.86,2024
+SG-10102,2024-08-30,Central,Furniture,Tables,Consumer,117.47,5,0.1,3.91,2024
+SG-10279,2024-08-30,West,Furniture,Furnishings,Home Office,368.49,6,0.04,51.5,2024
+SG-10300,2024-08-31,East,Technology,Accessories,Corporate,294.04,2,0.15,18.14,2024
+SG-11428,2024-08-31,East,Technology,Copiers,Corporate,272.21,3,0.11,50.05,2024
+SG-11296,2024-08-31,Central,Furniture,Bookcases,Consumer,206.3,3,0.07,-20.22,2024
+SG-11268,2024-09-01,East,Office Supplies,Labels,Consumer,111.43,7,0.15,29.98,2024
+SG-10742,2024-09-05,East,Technology,Copiers,Consumer,429.53,6,0.27,85.5,2024
+SG-11261,2024-09-06,South,Technology,Phones,Home Office,97.29,1,0.06,2.62,2024
+SG-11507,2024-09-07,Central,Office Supplies,Storage,Consumer,69.47,3,0.04,21.77,2024
+SG-10936,2024-09-08,East,Office Supplies,Labels,Corporate,154.37,6,0.1,15.54,2024
+SG-10496,2024-09-09,Central,Furniture,Tables,Consumer,254.52,6,0.07,-3.02,2024
+SG-10923,2024-09-09,South,Technology,Accessories,Consumer,230.69,3,0.0,72.64,2024
+SG-10775,2024-09-10,South,Office Supplies,Storage,Consumer,134.74,1,0.08,42.88,2024
+SG-10555,2024-09-12,East,Office Supplies,Storage,Consumer,187.47,7,0.11,-8.43,2024
+SG-11174,2024-09-12,Central,Office Supplies,Art,Home Office,144.31,5,0.2,-30.28,2024
+SG-10221,2024-09-13,West,Office Supplies,Binders,Home Office,209.48,2,0.2,40.92,2024
+SG-10553,2024-09-15,East,Technology,Phones,Corporate,158.32,7,0.03,27.3,2024
+SG-11589,2024-09-15,South,Office Supplies,Paper,Corporate,220.22,2,0.02,12.19,2024
+SG-10915,2024-09-15,South,Furniture,Furnishings,Corporate,282.3,4,0.17,7.73,2024
+SG-10859,2024-09-16,West,Furniture,Chairs,Corporate,370.15,3,0.19,39.86,2024
+SG-10055,2024-09-19,East,Office Supplies,Paper,Corporate,100.72,4,0.11,10.79,2024
+SG-10286,2024-09-21,Central,Office Supplies,Art,Consumer,184.28,2,0.02,48.66,2024
+SG-10881,2024-09-22,South,Furniture,Tables,Consumer,70.99,2,0.23,-13.2,2024
+SG-10320,2024-09-23,East,Office Supplies,Paper,Consumer,183.32,6,0.15,19.11,2024
+SG-11125,2024-09-24,East,Furniture,Bookcases,Corporate,185.45,4,0.01,41.18,2024
+SG-10241,2024-09-25,Central,Furniture,Tables,Corporate,262.29,4,0.22,1.48,2024
+SG-10823,2024-09-25,Central,Technology,Phones,Consumer,302.98,2,0.26,41.66,2024
+SG-10851,2024-09-26,West,Technology,Accessories,Home Office,327.96,1,0.16,46.84,2024
+SG-11051,2024-09-27,West,Furniture,Tables,Home Office,132.53,2,0.12,7.35,2024
+SG-10529,2024-09-28,Central,Office Supplies,Paper,Home Office,75.24,6,0.12,-14.83,2024
+SG-11338,2024-09-29,East,Office Supplies,Art,Consumer,269.17,1,0.2,72.91,2024
+SG-11232,2024-10-01,South,Office Supplies,Labels,Consumer,135.59,5,0.18,8.28,2024
+SG-11345,2024-10-02,Central,Office Supplies,Binders,Corporate,269.55,5,0.04,41.65,2024
+SG-10344,2024-10-04,West,Office Supplies,Paper,Consumer,141.35,6,0.26,-0.57,2024
+SG-11328,2024-10-05,Central,Furniture,Tables,Consumer,206.4,4,0.19,41.42,2024
+SG-10857,2024-10-05,East,Office Supplies,Art,Consumer,146.58,6,0.12,4.01,2024
+SG-11445,2024-10-05,East,Office Supplies,Binders,Consumer,122.81,4,0.03,34.53,2024
+SG-10340,2024-10-06,East,Technology,Copiers,Consumer,589.05,2,0.19,74.26,2024
+SG-10140,2024-10-06,West,Office Supplies,Labels,Home Office,85.92,2,0.0,26.01,2024
+SG-11361,2024-10-06,West,Technology,Copiers,Home Office,551.77,7,0.09,83.89,2024
+SG-10550,2024-10-07,Central,Office Supplies,Labels,Home Office,129.84,2,0.07,53.16,2024
+SG-10097,2024-10-07,West,Furniture,Bookcases,Consumer,124.07,2,0.2,-3.76,2024
+SG-10576,2024-10-07,East,Office Supplies,Storage,Consumer,450.12,6,0.1,60.56,2024
+SG-10489,2024-10-08,East,Technology,Machines,Consumer,257.39,7,0.12,35.31,2024
+SG-10941,2024-10-09,East,Office Supplies,Paper,Consumer,223.36,7,0.24,22.66,2024
+SG-10287,2024-10-09,Central,Office Supplies,Storage,Consumer,139.46,3,0.05,13.83,2024
+SG-10826,2024-10-10,South,Furniture,Tables,Home Office,176.21,3,0.19,-1.85,2024
+SG-10145,2024-10-10,South,Office Supplies,Art,Consumer,58.41,7,0.13,2.76,2024
+SG-11538,2024-10-11,East,Furniture,Bookcases,Consumer,324.65,1,0.0,26.43,2024
+SG-10809,2024-10-12,East,Technology,Copiers,Home Office,371.97,4,0.06,91.13,2024
+SG-11520,2024-10-13,South,Furniture,Furnishings,Consumer,140.15,4,0.22,14.77,2024
+SG-10812,2024-10-13,West,Technology,Accessories,Home Office,375.96,5,0.17,30.49,2024
+SG-10837,2024-10-13,South,Furniture,Furnishings,Corporate,116.2,6,0.18,37.42,2024
+SG-10530,2024-10-13,West,Office Supplies,Binders,Consumer,250.81,5,0.13,56.34,2024
+SG-10198,2024-10-15,Central,Office Supplies,Binders,Home Office,80.73,5,0.1,25.16,2024
+SG-11131,2024-10-15,Central,Technology,Accessories,Corporate,210.17,6,0.15,10.68,2024
+SG-10368,2024-10-15,Central,Office Supplies,Paper,Consumer,94.68,1,0.0,0.5,2024
+SG-11234,2024-10-17,South,Office Supplies,Art,Consumer,192.24,2,0.09,31.86,2024
+SG-11481,2024-10-17,West,Technology,Copiers,Corporate,339.46,5,0.04,88.27,2024
+SG-11179,2024-10-17,Central,Furniture,Chairs,Corporate,391.22,3,0.05,19.59,2024
+SG-10080,2024-10-19,East,Technology,Accessories,Corporate,496.17,7,0.18,92.44,2024
+SG-11162,2024-10-20,West,Office Supplies,Paper,Consumer,134.8,1,0.04,29.04,2024
+SG-10563,2024-10-21,South,Furniture,Chairs,Home Office,128.34,1,0.27,0.32,2024
+SG-10645,2024-10-21,East,Technology,Machines,Consumer,252.12,3,0.18,51.56,2024
+SG-10704,2024-10-22,West,Office Supplies,Binders,Home Office,143.76,1,0.3,-19.52,2024
+SG-11000,2024-10-22,Central,Office Supplies,Art,Consumer,197.35,2,0.14,0.65,2024
+SG-11453,2024-10-22,West,Furniture,Bookcases,Consumer,462.05,3,0.12,26.87,2024
+SG-10781,2024-10-23,Central,Furniture,Bookcases,Corporate,293.57,5,0.16,47.53,2024
+SG-10264,2024-10-23,South,Office Supplies,Binders,Home Office,102.8,6,0.0,69.96,2024
+SG-10197,2024-10-23,Central,Furniture,Tables,Consumer,194.7,2,0.07,43.33,2024
+SG-11243,2024-10-25,West,Furniture,Bookcases,Home Office,258.54,1,0.12,29.62,2024
+SG-10093,2024-10-25,Central,Furniture,Chairs,Consumer,88.43,6,0.14,2.71,2024
+SG-10987,2024-10-25,Central,Technology,Machines,Consumer,187.22,2,0.09,34.58,2024
+SG-10196,2024-10-29,Central,Technology,Copiers,Consumer,153.88,3,0.01,49.31,2024
+SG-11142,2024-10-30,West,Furniture,Chairs,Consumer,122.61,7,0.12,23.98,2024
+SG-10634,2024-10-30,West,Office Supplies,Labels,Consumer,46.76,1,0.11,26.7,2024
+SG-10253,2024-10-31,West,Technology,Phones,Corporate,307.67,5,0.23,37.85,2024
+SG-10289,2024-10-31,Central,Technology,Phones,Corporate,370.1,3,0.07,60.74,2024
+SG-10734,2024-10-31,South,Furniture,Bookcases,Consumer,142.21,4,0.2,11.16,2024
+SG-11502,2024-10-31,West,Furniture,Tables,Consumer,232.03,7,0.09,29.17,2024
+SG-10129,2024-11-04,Central,Office Supplies,Storage,Consumer,152.76,5,0.02,-3.56,2024
+SG-10703,2024-11-04,South,Technology,Copiers,Consumer,226.75,4,0.3,17.7,2024
+SG-10495,2024-11-06,East,Technology,Machines,Home Office,360.94,4,0.04,72.01,2024
+SG-11396,2024-11-06,West,Office Supplies,Storage,Home Office,87.53,3,0.13,49.26,2024
+SG-11168,2024-11-07,West,Furniture,Chairs,Home Office,208.46,5,0.09,18.35,2024
+SG-11040,2024-11-07,East,Furniture,Bookcases,Consumer,135.21,3,0.16,4.63,2024
+SG-11551,2024-11-08,Central,Office Supplies,Paper,Consumer,98.38,1,0.04,-1.71,2024
+SG-11471,2024-11-08,Central,Furniture,Tables,Consumer,193.61,5,0.1,26.58,2024
+SG-11292,2024-11-08,East,Office Supplies,Binders,Consumer,168.01,5,0.14,12.99,2024
+SG-10596,2024-11-09,West,Furniture,Furnishings,Home Office,204.64,5,0.16,22.59,2024
+SG-10995,2024-11-11,Central,Office Supplies,Binders,Corporate,224.5,2,0.18,15.63,2024
+SG-10047,2024-11-11,East,Office Supplies,Art,Home Office,307.98,7,0.14,41.6,2024
+SG-10322,2024-11-11,South,Furniture,Furnishings,Home Office,125.9,1,0.11,47.16,2024
+SG-10741,2024-11-11,Central,Technology,Phones,Consumer,336.23,7,0.12,51.46,2024
+SG-10727,2024-11-12,West,Office Supplies,Storage,Home Office,151.9,2,0.01,39.36,2024
+SG-10306,2024-11-13,South,Furniture,Chairs,Corporate,196.85,5,0.07,27.36,2024
+SG-11563,2024-11-13,East,Technology,Accessories,Corporate,139.3,7,0.17,43.36,2024
+SG-10582,2024-11-13,East,Office Supplies,Binders,Consumer,214.18,4,0.01,22.74,2024
+SG-10385,2024-11-14,South,Office Supplies,Labels,Home Office,71.17,6,0.01,-7.19,2024
+SG-10684,2024-11-14,West,Office Supplies,Storage,Home Office,285.35,5,0.03,42.7,2024
+SG-11403,2024-11-16,West,Furniture,Chairs,Corporate,304.93,5,0.12,38.25,2024
+SG-10625,2024-11-18,West,Office Supplies,Art,Corporate,110.02,6,0.16,9.24,2024
+SG-11571,2024-11-18,South,Office Supplies,Storage,Consumer,190.49,5,0.02,26.7,2024
+SG-10217,2024-11-19,Central,Office Supplies,Binders,Consumer,109.92,6,0.24,31.05,2024
+SG-10468,2024-11-20,South,Office Supplies,Storage,Consumer,114.82,2,0.0,30.13,2024
+SG-11394,2024-11-20,East,Technology,Copiers,Home Office,488.98,7,0.0,93.71,2024
+SG-11193,2024-11-20,West,Furniture,Chairs,Corporate,258.66,6,0.02,31.92,2024
+SG-11009,2024-11-20,West,Office Supplies,Labels,Consumer,388.87,5,0.09,40.27,2024
+SG-11088,2024-11-21,East,Office Supplies,Storage,Consumer,172.25,2,0.08,10.39,2024
+SG-11530,2024-11-21,East,Office Supplies,Storage,Corporate,213.63,1,0.13,43.45,2024
+SG-11008,2024-11-21,East,Furniture,Chairs,Consumer,90.51,4,0.23,-17.67,2024
+SG-11378,2024-11-22,South,Office Supplies,Storage,Corporate,156.87,7,0.14,23.21,2024
+SG-11256,2024-11-25,West,Office Supplies,Paper,Home Office,146.06,7,0.23,35.89,2024
+SG-10719,2024-11-25,West,Technology,Copiers,Consumer,208.2,6,0.07,45.97,2024
+SG-10562,2024-11-26,West,Office Supplies,Labels,Consumer,256.35,4,0.24,31.92,2024
+SG-10597,2024-11-27,South,Technology,Copiers,Corporate,385.46,2,0.02,75.71,2024
+SG-10291,2024-11-27,Central,Furniture,Furnishings,Consumer,166.43,2,0.16,6.26,2024
+SG-11011,2024-11-28,East,Office Supplies,Storage,Corporate,299.94,3,0.1,43.36,2024
+SG-10765,2024-11-28,East,Furniture,Chairs,Consumer,104.83,2,0.07,15.95,2024
+SG-10551,2024-11-28,East,Technology,Accessories,Consumer,604.17,7,0.0,106.36,2024
+SG-11356,2024-11-28,West,Furniture,Bookcases,Consumer,160.02,4,0.18,-2.13,2024
+SG-10462,2024-11-29,West,Furniture,Furnishings,Corporate,247.91,5,0.21,11.84,2024
+SG-10190,2024-12-01,East,Office Supplies,Paper,Corporate,67.99,7,0.1,17.79,2024
+SG-11513,2024-12-02,South,Office Supplies,Art,Home Office,205.24,6,0.06,15.79,2024
+SG-10494,2024-12-03,West,Furniture,Bookcases,Consumer,114.74,1,0.21,-18.98,2024
+SG-10076,2024-12-03,South,Technology,Accessories,Home Office,383.05,4,0.25,12.87,2024
+SG-11082,2024-12-06,South,Technology,Accessories,Consumer,136.49,7,0.15,21.27,2024
+SG-10725,2024-12-06,Central,Technology,Machines,Consumer,602.38,3,0.05,126.41,2024
+SG-10077,2024-12-07,Central,Office Supplies,Art,Corporate,72.76,5,0.1,26.09,2024
+SG-11006,2024-12-07,Central,Office Supplies,Labels,Corporate,86.54,3,0.01,-9.64,2024
+SG-10901,2024-12-08,South,Furniture,Bookcases,Corporate,194.85,5,0.11,27.2,2024
+SG-10632,2024-12-09,West,Technology,Copiers,Consumer,274.99,6,0.12,62.81,2024
+SG-10461,2024-12-09,West,Office Supplies,Paper,Consumer,235.02,1,0.08,44.94,2024
+SG-11430,2024-12-12,East,Office Supplies,Labels,Corporate,211.6,7,0.07,47.0,2024
+SG-11092,2024-12-13,West,Office Supplies,Art,Home Office,81.42,3,0.23,5.0,2024
+SG-10785,2024-12-13,East,Office Supplies,Storage,Consumer,274.72,4,0.13,16.13,2024
+SG-10278,2024-12-14,East,Furniture,Tables,Home Office,291.33,1,0.04,25.5,2024
+SG-10657,2024-12-17,West,Office Supplies,Art,Corporate,113.57,2,0.08,-6.0,2024
+SG-11526,2024-12-17,West,Technology,Copiers,Home Office,345.23,7,0.14,90.29,2024
+SG-11431,2024-12-18,South,Technology,Machines,Home Office,479.67,7,0.05,103.62,2024
+SG-10157,2024-12-19,Central,Furniture,Tables,Corporate,457.44,1,0.34,-7.56,2024
+SG-11123,2024-12-19,Central,Office Supplies,Paper,Consumer,116.27,5,0.2,5.93,2024
+SG-10391,2024-12-21,Central,Technology,Machines,Home Office,83.51,2,0.04,-2.79,2024
+SG-11546,2024-12-22,West,Furniture,Bookcases,Consumer,220.21,3,0.09,18.37,2024
+SG-10357,2024-12-22,Central,Office Supplies,Art,Home Office,140.51,6,0.26,1.66,2024
+SG-10793,2024-12-22,East,Furniture,Chairs,Consumer,487.37,4,0.06,10.5,2024
+SG-10434,2024-12-25,South,Technology,Phones,Corporate,289.63,2,0.11,37.78,2024
+SG-10413,2024-12-25,West,Technology,Machines,Consumer,310.39,4,0.08,53.54,2024
+SG-10127,2024-12-30,East,Office Supplies,Art,Consumer,144.42,1,0.26,2.24,2024

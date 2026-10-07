@@ -1,0 +1,24 @@
+REGIONAL GROWTH ANALYSIS – TASK 30
+
+Objective
+Compare regional growth rates over time using consistent periods and identify meaningful regional trends.
+
+Dataset
+Superstore-style dataset covering 2021–2024 with 1,600 transactions.
+
+Method
+Annual sales were aggregated by Region and Year. Year-over-year growth was calculated as:
+(Current Year Sales - Previous Year Sales) / Previous Year Sales × 100
+
+Five Insights
+1. West had the highest 2024 sales.
+2. East had the strongest 2023–2024 growth.
+3. Central had the weakest 2023–2024 growth.
+4. South had the strongest 2021–2024 CAGR.
+5. Growth percentages should always be reviewed with the underlying sales base to avoid small-base interpretation errors.
+
+Business Recommendation
+Prioritize regions with strong sustained growth while investigating regions with slowing growth. Compare both absolute sales and percentage growth before making resource-allocation decisions.
+
+Interview Preparation
+Growth rate can mislead when the comparison base is very small. A small increase in absolute sales can produce a large percentage increase.
